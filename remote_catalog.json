@@ -3509,7 +3509,58 @@
         {
       "country": "Denmark",
       "countryCode": "DK",
-      "stations": []
+      "stations": [
+  {
+    "name": "DR P3",
+    "genre": "music pop",
+    "id": "dk-dr-p3",
+    "stationUUID": "e8cf62bc-61f2-445c-b2ed-bec5bd5226ea",
+    "streamUrl": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3",
+    "bitrateKbps": 128,
+    "country": "Denmark",
+    "countryCode": "DK"
+  },
+  {
+    "name": "DR P1",
+    "genre": "talk",
+    "id": "dk-dr-p1",
+    "stationUUID": "a3bc7946-e569-420b-8793-9048804ae6b3",
+    "streamUrl": "http://live-icy.gslb01.dr.dk/A/A03H.mp3",
+    "bitrateKbps": 128,
+    "country": "Denmark",
+    "countryCode": "DK"
+  },
+  {
+    "name": "Nova FM",
+    "genre": "music",
+    "id": "dk-nova-fm",
+    "stationUUID": "4bcb11ad-0ac0-4bb6-8b36-603ba1a4effd",
+    "streamUrl": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+    "bitrateKbps": 128,
+    "country": "Denmark",
+    "countryCode": "DK"
+  },
+  {
+    "name": "Radio Soft",
+    "genre": "soft pop",
+    "id": "dk-radio-soft",
+    "stationUUID": "963cba5e-0601-11e8-ae97-52543be04c81",
+    "streamUrl": "http://tx-bauerdk.sharp-stream.com/http_live.php?i=radiosoft_dk_mp3",
+    "bitrateKbps": 128,
+    "country": "Denmark",
+    "countryCode": "DK"
+  },
+  {
+    "name": "Retro Radio",
+    "genre": "oldies",
+    "id": "dk-retro-radio",
+    "stationUUID": "962ee337-0601-11e8-ae97-52543be04c81",
+    "streamUrl": "http://stream128.retro-radio.dk/retro",
+    "bitrateKbps": 128,
+    "country": "Denmark",
+    "countryCode": "DK"
+  }
+]
     },
     {
       "country": "New Zealand",
