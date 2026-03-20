@@ -1394,6 +1394,112 @@
       ]
     },
     {
+  "country": "Bolivia",
+  "countryCode": "BO",
+  "stations": [
+    {
+      "name": "Radio Panamericana",
+      "genre": "news culture sports",
+      "id": "bo-radio-panamericana",
+      "stationUUID": "cca0bd15-38db-4949-8866-faae4c7309d5",
+      "streamUrl": "http://stream.zeno.fm/pnwpbyfambruv",
+      "bitrateKbps": 0,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    },
+    {
+      "name": "Radio Fides La Paz",
+      "genre": "news",
+      "id": "bo-radio-fides-la-paz",
+      "stationUUID": "c5ef3a09-d75e-404c-967e-a63df36c2460",
+      "streamUrl": "http://192.95.23.89:6358/stream",
+      "bitrateKbps": 96,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    },
+    {
+      "name": "Radio Monumental Bolivia",
+      "genre": "sports music",
+      "id": "bo-radio-monumental-bolivia",
+      "stationUUID": "3d208e62-09d4-4308-ac88-9df5a1f30750",
+      "streamUrl": "http://streaming2.locucionar.com:9149/stream",
+      "bitrateKbps": 32,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    },
+    {
+      "name": "Radio Aymara",
+      "genre": "culture music news",
+      "id": "bo-radio-aymara",
+      "stationUUID": "298a715b-a1e0-443b-bbf2-10ea2c3cdf85",
+      "streamUrl": "http://stream.zeno.fm/du0x9skxum0uv",
+      "bitrateKbps": 0,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    },
+    {
+      "name": "Radio Gigante Bolivia",
+      "genre": "cumbia folklore tropical",
+      "id": "bo-radio-gigante-bolivia",
+      "stationUUID": "81d58170-2f06-47fb-be37-e6c638f09bdf",
+      "streamUrl": "https://cloudstream2032.conectarhosting.com:7311/;",
+      "bitrateKbps": 128,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    },
+    {
+      "name": "ATB Radio",
+      "genre": "news",
+      "id": "bo-atb-radio",
+      "stationUUID": "ca45e8f5-5408-4a8e-8017-061f8f6b81be",
+      "streamUrl": "https://streamingenbolivia.com/8006/stream",
+      "bitrateKbps": 64,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    },
+    {
+      "name": "Radio Éxito (Bolivia)",
+      "genre": "news",
+      "id": "bo-radio-exito-bolivia",
+      "stationUUID": "5702c958-7e30-4b21-8467-2973927c4e00",
+      "streamUrl": "https://cast6.my-control-panel.com/proxy/radiostr/;",
+      "bitrateKbps": 128,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    },
+    {
+      "name": "Radio San Rafael 92.5 FM",
+      "genre": "ballads cumbia folklore pop news",
+      "id": "bo-radio-san-rafael-92-5-fm",
+      "stationUUID": "cbbc409c-bff4-4f59-a07a-5b690cb8ebc8",
+      "streamUrl": "https://guri.tepuyserver.net:7098/stream",
+      "bitrateKbps": 48,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    },
+    {
+      "name": "Radio Ciudad",
+      "genre": "latino pop",
+      "id": "bo-radio-ciudad",
+      "stationUUID": "6d65c14d-65a8-4084-a7d4-ed92dbb4b2bc",
+      "streamUrl": "http://streamingenbolivia.com/8002/stream",
+      "bitrateKbps": 36,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    },
+    {
+      "name": "Red Uyuni: Radio Recuerdos",
+      "genre": "latina recuerdos",
+      "id": "bo-red-uyuni-radio-recuerdos",
+      "stationUUID": "1ce84a75-b227-4677-9756-5832b71ddd44",
+      "streamUrl": "https://emiteradio.com/proxy/uyuni2?mp=/stream",
+      "bitrateKbps": 128,
+      "country": "Bolivia",
+      "countryCode": "BO"
+    }
+  ]
+},
+    {
       "country": "Brazil",
       "countryCode": "BR",
       "stations": [
