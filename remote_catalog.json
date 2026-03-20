@@ -2826,6 +2826,112 @@
       ]
     },
     {
+  "country": "Ecuador",
+  "countryCode": "EC",
+  "stations": [
+    {
+      "name": "La Nueva Unica",
+      "genre": "music",
+      "id": "ec-la-nueva-unica",
+      "stationUUID": "2d8f8886-b167-44a0-a3e3-39deacad13f5",
+      "streamUrl": "https://streamingecuador.net:8035/stream",
+      "bitrateKbps": 32,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    },
+    {
+      "name": "Radio La Otra - 91.3 FM",
+      "genre": "music",
+      "id": "ec-radio-la-otra-91-3-fm",
+      "stationUUID": "133abe4f-85e5-4a3c-9752-d46efd03cad4",
+      "streamUrl": "https://laotrafm.makrodigital.com/stream/laotrafmquito",
+      "bitrateKbps": 112,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    },
+    {
+      "name": "Radio Canela Pichincha",
+      "genre": "music",
+      "id": "ec-radio-canela-pichincha",
+      "stationUUID": "4402d9dc-6092-418a-8d6f-a837fd2d0cc5",
+      "streamUrl": "https://canelaradio.makrodigital.com:9280/stream",
+      "bitrateKbps": 128,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    },
+    {
+      "name": "Radio La Metro Stereo",
+      "genre": "rock",
+      "id": "ec-radio-la-metro-stereo",
+      "stationUUID": "5e37853b-be3e-452f-8f15-2035beba4ef3",
+      "streamUrl": "https://alba-ec-lametro-lametro.stream.mediatiquestream.com/chunks.m3u8",
+      "bitrateKbps": 0,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    },
+    {
+      "name": "Radio Canela Pichincha 106.5 FM",
+      "genre": "tropical",
+      "id": "ec-radio-canela-pichincha-106-5-fm",
+      "stationUUID": "fb779aec-9d23-45b6-98d6-58bc557acf0e",
+      "streamUrl": "https://canelaradio.makrodigital.com/stream/canelaradioquito",
+      "bitrateKbps": 128,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    },
+    {
+      "name": "DIBLU FM 88.9",
+      "genre": "sports news",
+      "id": "ec-diblu-fm-88-9",
+      "stationUUID": "133b89bb-ef9b-4c56-b9d2-3f620b73efa6",
+      "streamUrl": "https://streamingecuador.net:9002/stream",
+      "bitrateKbps": 32,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    },
+    {
+      "name": "RNC La Mundialista 103.3 FM (AAC)",
+      "genre": "sports news music",
+      "id": "ec-rnc-la-mundialista-103-3-fm",
+      "stationUUID": "3f5f948f-6259-11e9-a622-52543be04c81",
+      "streamUrl": "https://streamingecuador.net:7008/radiornc",
+      "bitrateKbps": 128,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    },
+    {
+      "name": "Radio Super Sol - 96.3 FM",
+      "genre": "music",
+      "id": "ec-radio-super-sol-96-3-fm",
+      "stationUUID": "904e9890-fb58-4381-bc2d-7de38177e355",
+      "streamUrl": "https://streamingecuador.com:8002/radiosupersol",
+      "bitrateKbps": 128,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    },
+    {
+      "name": "Alfa Radio",
+      "genre": "dance electronic",
+      "id": "ec-alfa-radio",
+      "stationUUID": "f6a902b4-d3ae-4c2b-bb15-c00d55fd0711",
+      "streamUrl": "https://d2oubcpl50vyui.cloudfront.net/index.m3u8",
+      "bitrateKbps": 344,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    },
+    {
+      "name": "HCJB La Voz de los Andes 89.3 FM",
+      "genre": "christian news",
+      "id": "ec-hcjb-la-voz-de-los-andes-89-3-fm",
+      "stationUUID": "2ebf90c6-5cb2-11e9-a622-52543be04c81",
+      "streamUrl": "https://streamingecuador.net:8287/hcjb",
+      "bitrateKbps": 128,
+      "country": "Ecuador",
+      "countryCode": "EC"
+    }
+  ]
+},
+    {
       "country": "Estonia",
       "countryCode": "EE",
       "stations": [
