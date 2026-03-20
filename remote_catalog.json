@@ -1,73 +1,4 @@
 {
-  "country": "Albania",
-  "countryCode": "AL",
-  "stations": [
-    {
-      "name": "Best Pro Electronic",
-      "genre": "electronic",
-      "id": "al-best-pro-electronic",
-      "streamUrl": "https://az1.sednastream.com/radio/8150/Live?1582297952",
-      "bitrateKbps": 128,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "EXA FM",
-      "genre": "pop",
-      "id": "al-exa-fm",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-      "bitrateKbps": 48,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "Albanian Baby Radio",
-      "genre": "children",
-      "id": "al-albanian-baby-radio",
-      "streamUrl": "https://stream.zeno.fm/d6v0xkba04zuv",
-      "bitrateKbps": 0,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "Albania News 24 TV",
-      "genre": "news",
-      "id": "al-news24",
-      "streamUrl": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
-      "bitrateKbps": 727,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "My Music Radio",
-      "genre": "music",
-      "id": "al-my-music-radio",
-      "streamUrl": "https://live.top-media.al/mmr",
-      "bitrateKbps": 128,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "Radio Tirana 1",
-      "genre": "talk",
-      "id": "al-radio-tirana-1",
-      "streamUrl": "http://79.106.48.2:8000/radiotirana1",
-      "bitrateKbps": 170,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "CLUB FM",
-      "genre": "music",
-      "id": "al-club-fm",
-      "streamUrl": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
-      "bitrateKbps": 128,
-      "country": "Albania",
-      "countryCode": "AL"
-    }
-  ]
-}
-{
   "version": 2,
   "updatedAt": "2026-03-16T16:14:00Z",
   "countries": [
@@ -277,6 +208,75 @@
         }
       ]
     },
+    {
+  "country": "Albania",
+  "countryCode": "AL",
+  "stations": [
+    {
+      "name": "Best Pro Electronic",
+      "genre": "electronic",
+      "id": "al-best-pro-electronic",
+      "streamUrl": "https://az1.sednastream.com/radio/8150/Live?1582297952",
+      "bitrateKbps": 128,
+      "country": "Albania",
+      "countryCode": "AL"
+    },
+    {
+      "name": "EXA FM",
+      "genre": "pop",
+      "id": "al-exa-fm",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+      "bitrateKbps": 48,
+      "country": "Albania",
+      "countryCode": "AL"
+    },
+    {
+      "name": "Albanian Baby Radio",
+      "genre": "children",
+      "id": "al-albanian-baby-radio",
+      "streamUrl": "https://stream.zeno.fm/d6v0xkba04zuv",
+      "bitrateKbps": 0,
+      "country": "Albania",
+      "countryCode": "AL"
+    },
+    {
+      "name": "Albania News 24 TV",
+      "genre": "news",
+      "id": "al-news24",
+      "streamUrl": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+      "bitrateKbps": 727,
+      "country": "Albania",
+      "countryCode": "AL"
+    },
+    {
+      "name": "My Music Radio",
+      "genre": "music",
+      "id": "al-my-music-radio",
+      "streamUrl": "https://live.top-media.al/mmr",
+      "bitrateKbps": 128,
+      "country": "Albania",
+      "countryCode": "AL"
+    },
+    {
+      "name": "Radio Tirana 1",
+      "genre": "talk",
+      "id": "al-radio-tirana-1",
+      "streamUrl": "http://79.106.48.2:8000/radiotirana1",
+      "bitrateKbps": 170,
+      "country": "Albania",
+      "countryCode": "AL"
+    },
+    {
+      "name": "CLUB FM",
+      "genre": "music",
+      "id": "al-club-fm",
+      "streamUrl": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+      "bitrateKbps": 128,
+      "country": "Albania",
+      "countryCode": "AL"
+    }
+  ]
+}
     {
       "country": "Armenia",
       "countryCode": "AM",
