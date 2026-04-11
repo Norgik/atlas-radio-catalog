@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-03-16T16:14:00Z",
+  "version": 3,
+  "updatedAt": "2026-04-11T00:00:00Z",
   "countries": [
     {
       "country": "United Arab Emirates",
@@ -209,74 +209,74 @@
       ]
     },
     {
-  "country": "Albania",
-  "countryCode": "AL",
-  "stations": [
-    {
-      "name": "Best Pro Electronic",
-      "genre": "electronic",
-      "id": "al-best-pro-electronic",
-      "streamUrl": "https://az1.sednastream.com/radio/8150/Live?1582297952",
-      "bitrateKbps": 128,
       "country": "Albania",
-      "countryCode": "AL"
+      "countryCode": "AL",
+      "stations": [
+        {
+          "name": "Best Pro Electronic",
+          "genre": "electronic",
+          "id": "al-best-pro-electronic",
+          "streamUrl": "https://az1.sednastream.com/radio/8150/Live?1582297952",
+          "bitrateKbps": 128,
+          "country": "Albania",
+          "countryCode": "AL"
+        },
+        {
+          "name": "EXA FM",
+          "genre": "pop",
+          "id": "al-exa-fm",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+          "bitrateKbps": 48,
+          "country": "Albania",
+          "countryCode": "AL"
+        },
+        {
+          "name": "Albanian Baby Radio",
+          "genre": "children",
+          "id": "al-albanian-baby-radio",
+          "streamUrl": "https://stream.zeno.fm/d6v0xkba04zuv",
+          "bitrateKbps": 0,
+          "country": "Albania",
+          "countryCode": "AL"
+        },
+        {
+          "name": "Albania News 24 TV",
+          "genre": "news",
+          "id": "al-news24",
+          "streamUrl": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+          "bitrateKbps": 727,
+          "country": "Albania",
+          "countryCode": "AL"
+        },
+        {
+          "name": "My Music Radio",
+          "genre": "music",
+          "id": "al-my-music-radio",
+          "streamUrl": "https://live.top-media.al/mmr",
+          "bitrateKbps": 128,
+          "country": "Albania",
+          "countryCode": "AL"
+        },
+        {
+          "name": "Radio Tirana 1",
+          "genre": "talk",
+          "id": "al-radio-tirana-1",
+          "streamUrl": "http://79.106.48.2:8000/radiotirana1",
+          "bitrateKbps": 170,
+          "country": "Albania",
+          "countryCode": "AL"
+        },
+        {
+          "name": "CLUB FM",
+          "genre": "music",
+          "id": "al-club-fm",
+          "streamUrl": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+          "bitrateKbps": 128,
+          "country": "Albania",
+          "countryCode": "AL"
+        }
+      ]
     },
-    {
-      "name": "EXA FM",
-      "genre": "pop",
-      "id": "al-exa-fm",
-      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-      "bitrateKbps": 48,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "Albanian Baby Radio",
-      "genre": "children",
-      "id": "al-albanian-baby-radio",
-      "streamUrl": "https://stream.zeno.fm/d6v0xkba04zuv",
-      "bitrateKbps": 0,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "Albania News 24 TV",
-      "genre": "news",
-      "id": "al-news24",
-      "streamUrl": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
-      "bitrateKbps": 727,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "My Music Radio",
-      "genre": "music",
-      "id": "al-my-music-radio",
-      "streamUrl": "https://live.top-media.al/mmr",
-      "bitrateKbps": 128,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "Radio Tirana 1",
-      "genre": "talk",
-      "id": "al-radio-tirana-1",
-      "streamUrl": "http://79.106.48.2:8000/radiotirana1",
-      "bitrateKbps": 170,
-      "country": "Albania",
-      "countryCode": "AL"
-    },
-    {
-      "name": "CLUB FM",
-      "genre": "music",
-      "id": "al-club-fm",
-      "streamUrl": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
-      "bitrateKbps": 128,
-      "country": "Albania",
-      "countryCode": "AL"
-    }
-  ]
-},
     {
       "country": "Armenia",
       "countryCode": "AM",
@@ -1394,111 +1394,111 @@
       ]
     },
     {
-  "country": "Bolivia",
-  "countryCode": "BO",
-  "stations": [
-    {
-      "name": "Radio Panamericana",
-      "genre": "news culture sports",
-      "id": "bo-radio-panamericana",
-      "stationUUID": "cca0bd15-38db-4949-8866-faae4c7309d5",
-      "streamUrl": "http://stream.zeno.fm/pnwpbyfambruv",
-      "bitrateKbps": 0,
       "country": "Bolivia",
-      "countryCode": "BO"
+      "countryCode": "BO",
+      "stations": [
+        {
+          "name": "Radio Panamericana",
+          "genre": "news culture sports",
+          "id": "bo-radio-panamericana",
+          "stationUUID": "cca0bd15-38db-4949-8866-faae4c7309d5",
+          "streamUrl": "http://stream.zeno.fm/pnwpbyfambruv",
+          "bitrateKbps": 0,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        },
+        {
+          "name": "Radio Fides La Paz",
+          "genre": "news",
+          "id": "bo-radio-fides-la-paz",
+          "stationUUID": "c5ef3a09-d75e-404c-967e-a63df36c2460",
+          "streamUrl": "http://192.95.23.89:6358/stream",
+          "bitrateKbps": 96,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        },
+        {
+          "name": "Radio Monumental Bolivia",
+          "genre": "sports music",
+          "id": "bo-radio-monumental-bolivia",
+          "stationUUID": "3d208e62-09d4-4308-ac88-9df5a1f30750",
+          "streamUrl": "http://streaming2.locucionar.com:9149/stream",
+          "bitrateKbps": 32,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        },
+        {
+          "name": "Radio Aymara",
+          "genre": "culture music news",
+          "id": "bo-radio-aymara",
+          "stationUUID": "298a715b-a1e0-443b-bbf2-10ea2c3cdf85",
+          "streamUrl": "http://stream.zeno.fm/du0x9skxum0uv",
+          "bitrateKbps": 0,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        },
+        {
+          "name": "Radio Gigante Bolivia",
+          "genre": "cumbia folklore tropical",
+          "id": "bo-radio-gigante-bolivia",
+          "stationUUID": "81d58170-2f06-47fb-be37-e6c638f09bdf",
+          "streamUrl": "https://cloudstream2032.conectarhosting.com:7311/;",
+          "bitrateKbps": 128,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        },
+        {
+          "name": "ATB Radio",
+          "genre": "news",
+          "id": "bo-atb-radio",
+          "stationUUID": "ca45e8f5-5408-4a8e-8017-061f8f6b81be",
+          "streamUrl": "https://streamingenbolivia.com/8006/stream",
+          "bitrateKbps": 64,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        },
+        {
+          "name": "Radio Éxito (Bolivia)",
+          "genre": "news",
+          "id": "bo-radio-exito-bolivia",
+          "stationUUID": "5702c958-7e30-4b21-8467-2973927c4e00",
+          "streamUrl": "https://cast6.my-control-panel.com/proxy/radiostr/;",
+          "bitrateKbps": 128,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        },
+        {
+          "name": "Radio San Rafael 92.5 FM",
+          "genre": "ballads cumbia folklore pop news",
+          "id": "bo-radio-san-rafael-92-5-fm",
+          "stationUUID": "cbbc409c-bff4-4f59-a07a-5b690cb8ebc8",
+          "streamUrl": "https://guri.tepuyserver.net:7098/stream",
+          "bitrateKbps": 48,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        },
+        {
+          "name": "Radio Ciudad",
+          "genre": "latino pop",
+          "id": "bo-radio-ciudad",
+          "stationUUID": "6d65c14d-65a8-4084-a7d4-ed92dbb4b2bc",
+          "streamUrl": "http://streamingenbolivia.com/8002/stream",
+          "bitrateKbps": 36,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        },
+        {
+          "name": "Red Uyuni: Radio Recuerdos",
+          "genre": "latina recuerdos",
+          "id": "bo-red-uyuni-radio-recuerdos",
+          "stationUUID": "1ce84a75-b227-4677-9756-5832b71ddd44",
+          "streamUrl": "https://emiteradio.com/proxy/uyuni2?mp=/stream",
+          "bitrateKbps": 128,
+          "country": "Bolivia",
+          "countryCode": "BO"
+        }
+      ]
     },
-    {
-      "name": "Radio Fides La Paz",
-      "genre": "news",
-      "id": "bo-radio-fides-la-paz",
-      "stationUUID": "c5ef3a09-d75e-404c-967e-a63df36c2460",
-      "streamUrl": "http://192.95.23.89:6358/stream",
-      "bitrateKbps": 96,
-      "country": "Bolivia",
-      "countryCode": "BO"
-    },
-    {
-      "name": "Radio Monumental Bolivia",
-      "genre": "sports music",
-      "id": "bo-radio-monumental-bolivia",
-      "stationUUID": "3d208e62-09d4-4308-ac88-9df5a1f30750",
-      "streamUrl": "http://streaming2.locucionar.com:9149/stream",
-      "bitrateKbps": 32,
-      "country": "Bolivia",
-      "countryCode": "BO"
-    },
-    {
-      "name": "Radio Aymara",
-      "genre": "culture music news",
-      "id": "bo-radio-aymara",
-      "stationUUID": "298a715b-a1e0-443b-bbf2-10ea2c3cdf85",
-      "streamUrl": "http://stream.zeno.fm/du0x9skxum0uv",
-      "bitrateKbps": 0,
-      "country": "Bolivia",
-      "countryCode": "BO"
-    },
-    {
-      "name": "Radio Gigante Bolivia",
-      "genre": "cumbia folklore tropical",
-      "id": "bo-radio-gigante-bolivia",
-      "stationUUID": "81d58170-2f06-47fb-be37-e6c638f09bdf",
-      "streamUrl": "https://cloudstream2032.conectarhosting.com:7311/;",
-      "bitrateKbps": 128,
-      "country": "Bolivia",
-      "countryCode": "BO"
-    },
-    {
-      "name": "ATB Radio",
-      "genre": "news",
-      "id": "bo-atb-radio",
-      "stationUUID": "ca45e8f5-5408-4a8e-8017-061f8f6b81be",
-      "streamUrl": "https://streamingenbolivia.com/8006/stream",
-      "bitrateKbps": 64,
-      "country": "Bolivia",
-      "countryCode": "BO"
-    },
-    {
-      "name": "Radio Éxito (Bolivia)",
-      "genre": "news",
-      "id": "bo-radio-exito-bolivia",
-      "stationUUID": "5702c958-7e30-4b21-8467-2973927c4e00",
-      "streamUrl": "https://cast6.my-control-panel.com/proxy/radiostr/;",
-      "bitrateKbps": 128,
-      "country": "Bolivia",
-      "countryCode": "BO"
-    },
-    {
-      "name": "Radio San Rafael 92.5 FM",
-      "genre": "ballads cumbia folklore pop news",
-      "id": "bo-radio-san-rafael-92-5-fm",
-      "stationUUID": "cbbc409c-bff4-4f59-a07a-5b690cb8ebc8",
-      "streamUrl": "https://guri.tepuyserver.net:7098/stream",
-      "bitrateKbps": 48,
-      "country": "Bolivia",
-      "countryCode": "BO"
-    },
-    {
-      "name": "Radio Ciudad",
-      "genre": "latino pop",
-      "id": "bo-radio-ciudad",
-      "stationUUID": "6d65c14d-65a8-4084-a7d4-ed92dbb4b2bc",
-      "streamUrl": "http://streamingenbolivia.com/8002/stream",
-      "bitrateKbps": 36,
-      "country": "Bolivia",
-      "countryCode": "BO"
-    },
-    {
-      "name": "Red Uyuni: Radio Recuerdos",
-      "genre": "latina recuerdos",
-      "id": "bo-red-uyuni-radio-recuerdos",
-      "stationUUID": "1ce84a75-b227-4677-9756-5832b71ddd44",
-      "streamUrl": "https://emiteradio.com/proxy/uyuni2?mp=/stream",
-      "bitrateKbps": 128,
-      "country": "Bolivia",
-      "countryCode": "BO"
-    }
-  ]
-},
     {
       "country": "Brazil",
       "countryCode": "BR",
@@ -2932,111 +2932,111 @@
       ]
     },
     {
-  "country": "Ecuador",
-  "countryCode": "EC",
-  "stations": [
-    {
-      "name": "La Nueva Unica",
-      "genre": "music",
-      "id": "ec-la-nueva-unica",
-      "stationUUID": "2d8f8886-b167-44a0-a3e3-39deacad13f5",
-      "streamUrl": "https://streamingecuador.net:8035/stream",
-      "bitrateKbps": 32,
       "country": "Ecuador",
-      "countryCode": "EC"
+      "countryCode": "EC",
+      "stations": [
+        {
+          "name": "La Nueva Unica",
+          "genre": "music",
+          "id": "ec-la-nueva-unica",
+          "stationUUID": "2d8f8886-b167-44a0-a3e3-39deacad13f5",
+          "streamUrl": "https://streamingecuador.net:8035/stream",
+          "bitrateKbps": 32,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        },
+        {
+          "name": "Radio La Otra - 91.3 FM",
+          "genre": "music",
+          "id": "ec-radio-la-otra-91-3-fm",
+          "stationUUID": "133abe4f-85e5-4a3c-9752-d46efd03cad4",
+          "streamUrl": "https://laotrafm.makrodigital.com/stream/laotrafmquito",
+          "bitrateKbps": 112,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        },
+        {
+          "name": "Radio Canela Pichincha",
+          "genre": "music",
+          "id": "ec-radio-canela-pichincha",
+          "stationUUID": "4402d9dc-6092-418a-8d6f-a837fd2d0cc5",
+          "streamUrl": "https://canelaradio.makrodigital.com:9280/stream",
+          "bitrateKbps": 128,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        },
+        {
+          "name": "Radio La Metro Stereo",
+          "genre": "rock",
+          "id": "ec-radio-la-metro-stereo",
+          "stationUUID": "5e37853b-be3e-452f-8f15-2035beba4ef3",
+          "streamUrl": "https://alba-ec-lametro-lametro.stream.mediatiquestream.com/chunks.m3u8",
+          "bitrateKbps": 0,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        },
+        {
+          "name": "Radio Canela Pichincha 106.5 FM",
+          "genre": "tropical",
+          "id": "ec-radio-canela-pichincha-106-5-fm",
+          "stationUUID": "fb779aec-9d23-45b6-98d6-58bc557acf0e",
+          "streamUrl": "https://canelaradio.makrodigital.com/stream/canelaradioquito",
+          "bitrateKbps": 128,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        },
+        {
+          "name": "DIBLU FM 88.9",
+          "genre": "sports news",
+          "id": "ec-diblu-fm-88-9",
+          "stationUUID": "133b89bb-ef9b-4c56-b9d2-3f620b73efa6",
+          "streamUrl": "https://streamingecuador.net:9002/stream",
+          "bitrateKbps": 32,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        },
+        {
+          "name": "RNC La Mundialista 103.3 FM (AAC)",
+          "genre": "sports news music",
+          "id": "ec-rnc-la-mundialista-103-3-fm",
+          "stationUUID": "3f5f948f-6259-11e9-a622-52543be04c81",
+          "streamUrl": "https://streamingecuador.net:7008/radiornc",
+          "bitrateKbps": 128,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        },
+        {
+          "name": "Radio Super Sol - 96.3 FM",
+          "genre": "music",
+          "id": "ec-radio-super-sol-96-3-fm",
+          "stationUUID": "904e9890-fb58-4381-bc2d-7de38177e355",
+          "streamUrl": "https://streamingecuador.com:8002/radiosupersol",
+          "bitrateKbps": 128,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        },
+        {
+          "name": "Alfa Radio",
+          "genre": "dance electronic",
+          "id": "ec-alfa-radio",
+          "stationUUID": "f6a902b4-d3ae-4c2b-bb15-c00d55fd0711",
+          "streamUrl": "https://d2oubcpl50vyui.cloudfront.net/index.m3u8",
+          "bitrateKbps": 344,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        },
+        {
+          "name": "HCJB La Voz de los Andes 89.3 FM",
+          "genre": "christian news",
+          "id": "ec-hcjb-la-voz-de-los-andes-89-3-fm",
+          "stationUUID": "2ebf90c6-5cb2-11e9-a622-52543be04c81",
+          "streamUrl": "https://streamingecuador.net:8287/hcjb",
+          "bitrateKbps": 128,
+          "country": "Ecuador",
+          "countryCode": "EC"
+        }
+      ]
     },
-    {
-      "name": "Radio La Otra - 91.3 FM",
-      "genre": "music",
-      "id": "ec-radio-la-otra-91-3-fm",
-      "stationUUID": "133abe4f-85e5-4a3c-9752-d46efd03cad4",
-      "streamUrl": "https://laotrafm.makrodigital.com/stream/laotrafmquito",
-      "bitrateKbps": 112,
-      "country": "Ecuador",
-      "countryCode": "EC"
-    },
-    {
-      "name": "Radio Canela Pichincha",
-      "genre": "music",
-      "id": "ec-radio-canela-pichincha",
-      "stationUUID": "4402d9dc-6092-418a-8d6f-a837fd2d0cc5",
-      "streamUrl": "https://canelaradio.makrodigital.com:9280/stream",
-      "bitrateKbps": 128,
-      "country": "Ecuador",
-      "countryCode": "EC"
-    },
-    {
-      "name": "Radio La Metro Stereo",
-      "genre": "rock",
-      "id": "ec-radio-la-metro-stereo",
-      "stationUUID": "5e37853b-be3e-452f-8f15-2035beba4ef3",
-      "streamUrl": "https://alba-ec-lametro-lametro.stream.mediatiquestream.com/chunks.m3u8",
-      "bitrateKbps": 0,
-      "country": "Ecuador",
-      "countryCode": "EC"
-    },
-    {
-      "name": "Radio Canela Pichincha 106.5 FM",
-      "genre": "tropical",
-      "id": "ec-radio-canela-pichincha-106-5-fm",
-      "stationUUID": "fb779aec-9d23-45b6-98d6-58bc557acf0e",
-      "streamUrl": "https://canelaradio.makrodigital.com/stream/canelaradioquito",
-      "bitrateKbps": 128,
-      "country": "Ecuador",
-      "countryCode": "EC"
-    },
-    {
-      "name": "DIBLU FM 88.9",
-      "genre": "sports news",
-      "id": "ec-diblu-fm-88-9",
-      "stationUUID": "133b89bb-ef9b-4c56-b9d2-3f620b73efa6",
-      "streamUrl": "https://streamingecuador.net:9002/stream",
-      "bitrateKbps": 32,
-      "country": "Ecuador",
-      "countryCode": "EC"
-    },
-    {
-      "name": "RNC La Mundialista 103.3 FM (AAC)",
-      "genre": "sports news music",
-      "id": "ec-rnc-la-mundialista-103-3-fm",
-      "stationUUID": "3f5f948f-6259-11e9-a622-52543be04c81",
-      "streamUrl": "https://streamingecuador.net:7008/radiornc",
-      "bitrateKbps": 128,
-      "country": "Ecuador",
-      "countryCode": "EC"
-    },
-    {
-      "name": "Radio Super Sol - 96.3 FM",
-      "genre": "music",
-      "id": "ec-radio-super-sol-96-3-fm",
-      "stationUUID": "904e9890-fb58-4381-bc2d-7de38177e355",
-      "streamUrl": "https://streamingecuador.com:8002/radiosupersol",
-      "bitrateKbps": 128,
-      "country": "Ecuador",
-      "countryCode": "EC"
-    },
-    {
-      "name": "Alfa Radio",
-      "genre": "dance electronic",
-      "id": "ec-alfa-radio",
-      "stationUUID": "f6a902b4-d3ae-4c2b-bb15-c00d55fd0711",
-      "streamUrl": "https://d2oubcpl50vyui.cloudfront.net/index.m3u8",
-      "bitrateKbps": 344,
-      "country": "Ecuador",
-      "countryCode": "EC"
-    },
-    {
-      "name": "HCJB La Voz de los Andes 89.3 FM",
-      "genre": "christian news",
-      "id": "ec-hcjb-la-voz-de-los-andes-89-3-fm",
-      "stationUUID": "2ebf90c6-5cb2-11e9-a622-52543be04c81",
-      "streamUrl": "https://streamingecuador.net:8287/hcjb",
-      "bitrateKbps": 128,
-      "country": "Ecuador",
-      "countryCode": "EC"
-    }
-  ]
-},
     {
       "country": "Estonia",
       "countryCode": "EE",
@@ -3697,6 +3697,50 @@
       "countryCode": "NO",
       "stations": [
         {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "news talk",
+          "id": "no-radio-norge",
+          "language": "no",
+          "lastValidatedAt": "2026-04-11T00:00:00.000Z",
+          "name": "Radio Norge",
+          "streamUrl": "https://live.radionorge.no/radionorge"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "news talk",
+          "id": "no-p4",
+          "language": "no",
+          "lastValidatedAt": "2026-04-11T00:00:00.000Z",
+          "name": "P4",
+          "streamUrl": "https://p4.lv.no/p4/p4mp3_192"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "news",
+          "id": "no-nrk-nyheter",
+          "language": "no",
+          "lastValidatedAt": "2026-04-11T00:00:00.000Z",
+          "name": "NRK Nyheter",
+          "streamUrl": "https://lyd.nrk.no/nrk_radio_nyheter_aac_h"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "news talk",
+          "id": "no-nrk-p1",
+          "language": "no",
+          "lastValidatedAt": "2026-04-11T00:00:00.000Z",
+          "name": "NRK P1",
+          "streamUrl": "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h"
+        },
+        {
           "name": "1-NRK Jazz",
           "genre": "jazz smooth jazz",
           "id": "rb-be930f76-8b01-4d51-9863-4b5a8c64897a",
@@ -3787,61 +3831,61 @@
         }
       ]
     },
-        {
+    {
       "country": "Denmark",
       "countryCode": "DK",
       "stations": [
-  {
-    "name": "DR P3",
-    "genre": "music pop",
-    "id": "dk-dr-p3",
-    "stationUUID": "e8cf62bc-61f2-445c-b2ed-bec5bd5226ea",
-    "streamUrl": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3",
-    "bitrateKbps": 128,
-    "country": "Denmark",
-    "countryCode": "DK"
-  },
-  {
-    "name": "DR P1",
-    "genre": "talk",
-    "id": "dk-dr-p1",
-    "stationUUID": "a3bc7946-e569-420b-8793-9048804ae6b3",
-    "streamUrl": "http://live-icy.gslb01.dr.dk/A/A03H.mp3",
-    "bitrateKbps": 128,
-    "country": "Denmark",
-    "countryCode": "DK"
-  },
-  {
-    "name": "Nova FM",
-    "genre": "music",
-    "id": "dk-nova-fm",
-    "stationUUID": "4bcb11ad-0ac0-4bb6-8b36-603ba1a4effd",
-    "streamUrl": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
-    "bitrateKbps": 128,
-    "country": "Denmark",
-    "countryCode": "DK"
-  },
-  {
-    "name": "Radio Soft",
-    "genre": "soft pop",
-    "id": "dk-radio-soft",
-    "stationUUID": "963cba5e-0601-11e8-ae97-52543be04c81",
-    "streamUrl": "http://tx-bauerdk.sharp-stream.com/http_live.php?i=radiosoft_dk_mp3",
-    "bitrateKbps": 128,
-    "country": "Denmark",
-    "countryCode": "DK"
-  },
-  {
-    "name": "Retro Radio",
-    "genre": "oldies",
-    "id": "dk-retro-radio",
-    "stationUUID": "962ee337-0601-11e8-ae97-52543be04c81",
-    "streamUrl": "http://stream128.retro-radio.dk/retro",
-    "bitrateKbps": 128,
-    "country": "Denmark",
-    "countryCode": "DK"
-  }
-]
+        {
+          "name": "DR P3",
+          "genre": "music pop",
+          "id": "dk-dr-p3",
+          "stationUUID": "e8cf62bc-61f2-445c-b2ed-bec5bd5226ea",
+          "streamUrl": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3",
+          "bitrateKbps": 128,
+          "country": "Denmark",
+          "countryCode": "DK"
+        },
+        {
+          "name": "DR P1",
+          "genre": "talk",
+          "id": "dk-dr-p1",
+          "stationUUID": "a3bc7946-e569-420b-8793-9048804ae6b3",
+          "streamUrl": "http://live-icy.gslb01.dr.dk/A/A03H.mp3",
+          "bitrateKbps": 128,
+          "country": "Denmark",
+          "countryCode": "DK"
+        },
+        {
+          "name": "Nova FM",
+          "genre": "music",
+          "id": "dk-nova-fm",
+          "stationUUID": "4bcb11ad-0ac0-4bb6-8b36-603ba1a4effd",
+          "streamUrl": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+          "bitrateKbps": 128,
+          "country": "Denmark",
+          "countryCode": "DK"
+        },
+        {
+          "name": "Radio Soft",
+          "genre": "soft pop",
+          "id": "dk-radio-soft",
+          "stationUUID": "963cba5e-0601-11e8-ae97-52543be04c81",
+          "streamUrl": "http://tx-bauerdk.sharp-stream.com/http_live.php?i=radiosoft_dk_mp3",
+          "bitrateKbps": 128,
+          "country": "Denmark",
+          "countryCode": "DK"
+        },
+        {
+          "name": "Retro Radio",
+          "genre": "oldies",
+          "id": "dk-retro-radio",
+          "stationUUID": "962ee337-0601-11e8-ae97-52543be04c81",
+          "streamUrl": "http://stream128.retro-radio.dk/retro",
+          "bitrateKbps": 128,
+          "country": "Denmark",
+          "countryCode": "DK"
+        }
+      ]
     },
     {
       "country": "New Zealand",
