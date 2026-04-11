@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-04-11T00:00:00Z",
+  "version": 4,
+  "updatedAt": "2026-04-11T01:00:00Z",
   "countries": [
     {
       "country": "United Arab Emirates",
@@ -3705,7 +3705,7 @@
           "language": "no",
           "lastValidatedAt": "2026-04-11T00:00:00.000Z",
           "name": "Radio Norge",
-          "streamUrl": "https://live.radionorge.no/radionorge"
+          "streamUrl": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3"
         },
         {
           "bitrateKbps": 192,
@@ -3716,7 +3716,7 @@
           "language": "no",
           "lastValidatedAt": "2026-04-11T00:00:00.000Z",
           "name": "P4",
-          "streamUrl": "https://p4.lv.no/p4/p4mp3_192"
+          "streamUrl": "https://p4.p4groupaudio.com/P04_MM"
         },
         {
           "bitrateKbps": 128,
@@ -3727,7 +3727,7 @@
           "language": "no",
           "lastValidatedAt": "2026-04-11T00:00:00.000Z",
           "name": "NRK Nyheter",
-          "streamUrl": "https://lyd.nrk.no/nrk_radio_nyheter_aac_h"
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/nyheter"
         },
         {
           "bitrateKbps": 128,
@@ -3738,7 +3738,7 @@
           "language": "no",
           "lastValidatedAt": "2026-04-11T00:00:00.000Z",
           "name": "NRK P1",
-          "streamUrl": "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h"
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1"
         },
         {
           "name": "1-NRK Jazz",
