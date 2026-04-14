@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-14T00:00:00Z",
+  "allowHeuristicFallback": true,
+  "stationIds": [
+    "gb-bbc-world-service",
+    "gb-talkradio",
+    "gb-lbc-radio",
+    "gb-lbc-uk",
+    "gb-lbc-london-national-stream",
+    "au-abc-newsradio",
+    "au-sky-news-radio",
+    "au-3aw-693am",
+    "za-ecr-east-coast-radio-kwazulu-natal",
+    "za-power-98-7",
+    "ca-ctv-news-audio-channel",
+    "sg-cna-938-live-singapore",
+    "no-nrk-p1",
+    "no-nrk-nyheter",
+    "no-p4",
+    "no-radio-norge"
+  ]
+}

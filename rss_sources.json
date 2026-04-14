@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-14T00:00:00Z",
+  "sources": [
+    {
+      "id": "no_nrk_toppsaker",
+      "name": "NRK Nyheter",
+      "countryCode": "NO",
+      "languageCodes": [
+        "no"
+      ],
+      "rssFeedURL": "https://www.nrk.no/toppsaker.rss",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "no_nrk_siste",
+      "name": "NRK Siste nytt",
+      "countryCode": "NO",
+      "languageCodes": [
+        "no"
+      ],
+      "rssFeedURL": "https://www.nrk.no/nyheter/rss.xml",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "no_tv2",
+      "name": "TV 2 Nyheter",
+      "countryCode": "NO",
+      "languageCodes": [
+        "no"
+      ],
+      "rssFeedURL": "https://www.tv2.no/rss/",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "no_e24",
+      "name": "E24",
+      "countryCode": "NO",
+      "languageCodes": [
+        "no"
+      ],
+      "rssFeedURL": "https://e24.no/rss/",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "se_svt",
+      "name": "SVT Nyheter",
+      "countryCode": "SE",
+      "languageCodes": [
+        "sv"
+      ],
+      "rssFeedURL": "https://www.svt.se/nyheter/rss.xml",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "se_thelocal",
+      "name": "The Local Sweden",
+      "countryCode": "SE",
+      "languageCodes": [
+        "en"
+      ],
+      "rssFeedURL": "https://www.thelocal.se/feed/",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "se_aftonbladet",
+      "name": "Aftonbladet",
+      "countryCode": "SE",
+      "languageCodes": [
+        "sv"
+      ],
+      "rssFeedURL": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
+      "contentType": "news_talk",
+      "status": "draft"
+    },
+    {
+      "id": "fi_yle_news",
+      "name": "Yle News",
+      "countryCode": "FI",
+      "languageCodes": [
+        "en"
+      ],
+      "rssFeedURL": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "fi_yle_uutiset",
+      "name": "Yle Uutiset",
+      "countryCode": "FI",
+      "languageCodes": [
+        "fi"
+      ],
+      "rssFeedURL": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "fi_hs",
+      "name": "Helsingin Sanomat",
+      "countryCode": "FI",
+      "languageCodes": [
+        "fi"
+      ],
+      "rssFeedURL": "https://www.hs.fi/rss/tuoreimmat.xml",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "fi_iltalehti",
+      "name": "Iltalehti",
+      "countryCode": "FI",
+      "languageCodes": [
+        "fi"
+      ],
+      "rssFeedURL": "https://www.iltalehti.fi/rss/uutiset.xml",
+      "contentType": "news_talk",
+      "status": "draft"
+    },
+    {
+      "id": "gb_bbc_news",
+      "name": "BBC News",
+      "countryCode": "GB",
+      "languageCodes": [
+        "en"
+      ],
+      "rssFeedURL": "http://feeds.bbci.co.uk/news/rss.xml",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "gb_bbc_world",
+      "name": "BBC World Service",
+      "countryCode": "GB",
+      "languageCodes": [
+        "en"
+      ],
+      "rssFeedURL": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "gb_guardian",
+      "name": "The Guardian",
+      "countryCode": "GB",
+      "languageCodes": [
+        "en"
+      ],
+      "rssFeedURL": "https://www.theguardian.com/world/rss",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    },
+    {
+      "id": "gb_skynews",
+      "name": "Sky News",
+      "countryCode": "GB",
+      "languageCodes": [
+        "en"
+      ],
+      "rssFeedURL": "https://feeds.skynews.com/feeds/rss/world.xml",
+      "contentType": "news_talk",
+      "status": "verified_manual"
+    }
+  ]
+}
