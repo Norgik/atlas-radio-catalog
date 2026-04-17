@@ -3813,7 +3813,7 @@
           "genre": "news talk",
           "id": "no-radio-norge",
           "stationUUID": "no-radio-norge",
-          "streamUrl": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+          "streamUrl": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3?direct=true",
           "bitrateKbps": 128,
           "country": "Norway",
           "countryCode": "NO",
