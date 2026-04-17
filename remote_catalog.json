@@ -3727,16 +3727,6 @@
           "country": "Ireland",
           "countryCode": "IE",
           "language": "en"
-        },
-        {
-          "id": "ie-rte-radio1",
-          "name": "RTÉ Radio 1",
-          "genre": "news talk",
-          "language": "en",
-          "streamUrl": "https://rte-icy.2cdn.net/rte-radio1-high.mp3",
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "IE"
         }
       ]
     },
@@ -4121,16 +4111,6 @@
           "country": "New Zealand",
           "countryCode": "NZ",
           "language": "en"
-        },
-        {
-          "id": "nz-rnz-national",
-          "name": "RNZ National",
-          "genre": "news talk",
-          "language": "en",
-          "streamUrl": "https://radionz-ice.streamguys.com/national.aac",
-          "bitrateKbps": 0,
-          "country": "New Zealand",
-          "countryCode": "NZ"
         }
       ]
     },
@@ -6594,17 +6574,6 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Moon Mission Recordings",
           "streamUrl": "http://uk5.internet-radio.com:8306/",
-          "language": "ja"
-        },
-        {
-          "bitrateKbps": 0,
-          "country": "Japan",
-          "countryCode": "JP",
-          "genre": "news",
-          "id": "jp-nhk-radio1",
-          "lastValidatedAt": "2026-04-17T12:00:00.000Z",
-          "name": "NHK Radio 1",
-          "streamUrl": "https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master.m3u8",
           "language": "ja"
         }
       ]
@@ -9108,17 +9077,6 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Antyradio",
           "streamUrl": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Poland",
-          "countryCode": "PL",
-          "genre": "information",
-          "id": "pl-polskie-radio-24",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Polskie Radio 24",
-          "streamUrl": "http://stream3.polskieradio.pl:8080/;.mp3",
           "language": "pl"
         },
         {
