@@ -4593,17 +4593,6 @@
       "countryCode": "FR",
       "stations": [
         {
-          "bitrateKbps": 128,
-          "country": "France",
-          "countryCode": "FR",
-          "genre": "various",
-          "id": "fr-france-info",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "France Info",
-          "streamUrl": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
-          "language": "fr"
-        },
-        {
           "bitrateKbps": 64,
           "country": "France",
           "countryCode": "FR",
