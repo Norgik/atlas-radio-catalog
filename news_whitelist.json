@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T00:00:00Z",
+  "updatedAt": "2026-04-17T18:40:49.339Z",
   "allowHeuristicFallback": true,
   "stationIds": [
     "gb-bbc-world-service",
@@ -17,7 +17,7 @@
     "sg-cna-938-live-singapore",
     "no-nrk-p1",
     "no-nrk-nyheter",
-    "no-p4",
+    "no-p4-norge",
     "no-radio-norge"
   ]
 }

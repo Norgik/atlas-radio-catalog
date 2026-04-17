@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T17:13:20.433120Z",
+  "updatedAt": "2026-04-17T18:40:49.339Z",
   "countries": [
     {
       "country": "United Arab Emirates",
@@ -3809,8 +3809,41 @@
       "countryCode": "NO",
       "stations": [
         {
+          "name": "P4 Norge",
+          "genre": "radio",
+          "id": "no-p4-norge",
+          "stationUUID": "no-p4-norge",
+          "streamUrl": "https://p4.p4groupaudio.com/P04_AH",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P3",
+          "genre": "radio",
+          "id": "no-nrk-p3",
+          "stationUUID": "no-nrk-p3",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK Jazz",
+          "genre": "radio",
+          "id": "no-nrk-jazz",
+          "stationUUID": "no-nrk-jazz",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
           "name": "Radio Norge",
-          "genre": "news talk",
+          "genre": "radio",
           "id": "no-radio-norge",
           "stationUUID": "no-radio-norge",
           "streamUrl": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3?direct=true",
@@ -3820,12 +3853,56 @@
           "language": "no"
         },
         {
-          "name": "P4",
-          "genre": "news talk",
-          "id": "no-p4",
-          "stationUUID": "no-p4",
-          "streamUrl": "https://p4.p4groupaudio.com/P04_MM",
+          "name": "NRK P1 Stor-Oslo",
+          "genre": "radio",
+          "id": "no-nrk-p1-stor-oslo",
+          "stationUUID": "no-nrk-p1-stor-oslo",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h",
           "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P2",
+          "genre": "radio",
+          "id": "no-nrk-p2",
+          "stationUUID": "no-nrk-p2",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
+          "bitrateKbps": 159,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRJ Norge",
+          "genre": "radio",
+          "id": "no-nrj-norge",
+          "stationUUID": "no-nrj-norge",
+          "streamUrl": "https://live-bauerno.sharp-stream.com/kiss_no_mp3?direct=true",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK MP3",
+          "genre": "radio",
+          "id": "no-nrk-mp3",
+          "stationUUID": "no-nrk-mp3",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "P10 Country",
+          "genre": "radio",
+          "id": "no-p10-country",
+          "stationUUID": "no-p10-country",
+          "streamUrl": "https://p10.p4groupaudio.com/P10_AH",
+          "bitrateKbps": 191,
           "country": "Norway",
           "countryCode": "NO",
           "language": "no"
@@ -3848,17 +3925,6 @@
           "stationUUID": "no-nrk-p1",
           "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1",
           "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "1-NRK Jazz",
-          "genre": "jazz smooth jazz",
-          "id": "rb-be930f76-8b01-4d51-9863-4b5a8c64897a",
-          "stationUUID": "be930f76-8b01-4d51-9863-4b5a8c64897a",
-          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
-          "bitrateKbps": 192,
           "country": "Norway",
           "countryCode": "NO",
           "language": "no"
@@ -3935,17 +4001,6 @@
           "id": "rb-0cb4f6de-8e44-11e8-aa66-52543be04c81",
           "stationUUID": "0cb4f6de-8e44-11e8-aa66-52543be04c81",
           "streamUrl": "https://stream.radiojar.com/6bmecgg3wd5tv",
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P3",
-          "genre": "music pop",
-          "id": "rb-17be0284-0ab4-453f-9e98-f674df46a919",
-          "stationUUID": "17be0284-0ab4-453f-9e98-f674df46a919",
-          "streamUrl": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p3",
-          "bitrateKbps": 192,
           "country": "Norway",
           "countryCode": "NO",
           "language": "no"
