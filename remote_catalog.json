@@ -826,6 +826,17 @@
           "name": "Arabella Relax",
           "streamUrl": "https://frontend.streams.arabella.at/arabella-relax?aggregator=arabella-playlistfile",
           "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "news talk",
+          "id": "at-orf-oe1",
+          "lastValidatedAt": "2026-04-17T12:00:00.000Z",
+          "name": "ORF Ö1",
+          "streamUrl": "https://orf-live.ors-shoutcast.at/oe1-q1a",
+          "language": "de"
         }
       ]
     },
@@ -3079,7 +3090,7 @@
           "id": "de-inforadio",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Inforadio",
-          "streamUrl": "http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid",
+          "streamUrl": "https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid",
           "language": "de"
         }
       ]
@@ -3716,6 +3727,16 @@
           "country": "Ireland",
           "countryCode": "IE",
           "language": "en"
+        },
+        {
+          "id": "ie-rte-radio1",
+          "name": "RTÉ Radio 1",
+          "genre": "news talk",
+          "language": "en",
+          "streamUrl": "https://rte-icy.2cdn.net/rte-radio1-high.mp3",
+          "bitrateKbps": 128,
+          "country": "Ireland",
+          "countryCode": "IE"
         }
       ]
     },
@@ -4102,14 +4123,14 @@
           "language": "en"
         },
         {
-          "name": "RNZ National",
-          "genre": "radio",
           "id": "nz-rnz-national",
-          "streamUrl": "http://radionz-ice.streamguys.com/national.mp3",
-          "bitrateKbps": 64,
+          "name": "RNZ National",
+          "genre": "news talk",
+          "language": "en",
+          "streamUrl": "https://radionz-ice.streamguys.com/national.aac",
+          "bitrateKbps": 0,
           "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
+          "countryCode": "NZ"
         }
       ]
     },
@@ -4193,6 +4214,16 @@
           "country": "Sweden",
           "countryCode": "SE",
           "language": "sv"
+        },
+        {
+          "id": "se-sr-p1",
+          "name": "Sveriges Radio P1",
+          "genre": "news talk",
+          "language": "sv",
+          "streamUrl": "https://live1.sr.se/p1-aac-128",
+          "bitrateKbps": 128,
+          "country": "Sweden",
+          "countryCode": "SE"
         }
       ]
     },
@@ -4589,7 +4620,7 @@
           "id": "fr-france-info",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "France Info",
-          "streamUrl": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+          "streamUrl": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
           "language": "fr"
         },
         {
@@ -6563,6 +6594,17 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Moon Mission Recordings",
           "streamUrl": "http://uk5.internet-radio.com:8306/",
+          "language": "ja"
+        },
+        {
+          "bitrateKbps": 0,
+          "country": "Japan",
+          "countryCode": "JP",
+          "genre": "news",
+          "id": "jp-nhk-radio1",
+          "lastValidatedAt": "2026-04-17T12:00:00.000Z",
+          "name": "NHK Radio 1",
+          "streamUrl": "https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master.m3u8",
           "language": "ja"
         }
       ]
@@ -9232,6 +9274,17 @@
           "name": "Radio Wnet",
           "streamUrl": "http://audio.radiownet.pl:8000/stream",
           "language": "pl"
+        },
+        {
+          "bitrateKbps": 96,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "news talk",
+          "id": "pl-polskie-radio-1",
+          "lastValidatedAt": "2026-04-17T12:00:00.000Z",
+          "name": "Polskie Radio 1",
+          "streamUrl": "https://stream.polskieradio.pl/pr1/mp3",
+          "language": "pl"
         }
       ]
     },
@@ -11475,6 +11528,17 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Frisky",
           "streamUrl": "http://stream2.friskyradio.com/frisky_mp3_hi",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 32,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "news talk",
+          "id": "us-wnyc-fm",
+          "lastValidatedAt": "2026-04-17T12:00:00.000Z",
+          "name": "WNYC (NPR News)",
+          "streamUrl": "https://fm939.wnyc.org/wnycfm.aac",
           "language": "en"
         }
       ]
