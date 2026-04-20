@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-19T23:15:26.000Z",
+  "updatedAt": "2026-04-20T21:44:28.000Z",
   "countries": [
     {
       "country": "United Arab Emirates",
@@ -8363,6 +8363,105 @@
           "streamUrl": "https://stream.radiojar.com/6bmecgg3wd5tv",
           "country": "Norway",
           "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-alesund",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Ålesund",
+          "streamUrl": "https://audio.radioaalesund.no/aalesund_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-atlantic",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Atlantic",
+          "streamUrl": "https://audio.radioaalesund.no/atlantic_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-grenland",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Grenland",
+          "streamUrl": "https://audio.radioaalesund.no/grenland_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-jaerradioen",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Jærradioen",
+          "streamUrl": "https://audio.radioaalesund.no/jaerradioen_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-nordsjo",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Nordsjø",
+          "streamUrl": "https://audio.radioaalesund.no/nordsjo_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-sandnes",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Sandnes",
+          "streamUrl": "https://audio.radioaalesund.no/sandnes_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-tonsberg",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Tønsberg",
+          "streamUrl": "https://audio.radioaalesund.no/tonsberg_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-scansat",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Scansat",
+          "streamUrl": "https://audio.radioaalesund.no/scansat_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-clasico",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Clásico",
+          "streamUrl": "https://audio.radioaalesund.no/clasico_mq",
           "language": "no"
         }
       ]
