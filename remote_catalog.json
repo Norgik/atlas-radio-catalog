@@ -4143,7 +4143,7 @@
           "id": "gb-bbc-world-service",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "BBC World Service",
-          "streamUrl": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+          "streamUrl": "https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=96000.norewind.m3u8",
           "language": "en"
         },
         {
