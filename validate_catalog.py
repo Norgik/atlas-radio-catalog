@@ -8,6 +8,7 @@ import json
 import sys
 
 CATALOG_PATH = "remote_catalog.json"
+BULK_FILL_MIN_STATIONS = 5
 
 def main():
     try:
@@ -23,10 +24,13 @@ def main():
     countries = data.get("countries", [])
     total = 0
     missing = []
+    bulk_warnings = []
 
     for country in countries:
         cc = country.get("countryCode", "?")
-        for station in country.get("stations", []):
+        stations = country.get("stations", [])
+        langs = set()
+        for station in stations:
             total += 1
             lang = str(station.get("language", "")).strip()
             if not lang:
@@ -35,6 +39,12 @@ def main():
                     "id": station.get("id", "?"),
                     "name": station.get("name", "?"),
                 })
+            else:
+                langs.add(lang.lower())
+
+        if len(stations) >= BULK_FILL_MIN_STATIONS and len(langs) == 1:
+            only_lang = next(iter(langs))
+            bulk_warnings.append((cc, len(stations), only_lang))
 
     if missing:
         print(f"ERROR: {len(missing)} station(s) missing non-empty `language` field:\n")
@@ -44,6 +54,13 @@ def main():
         sys.exit(1)
 
     print(f"OK: all {total} stations have a non-empty `language` field.")
+
+    if bulk_warnings:
+        print(f"\nWARNING: {len(bulk_warnings)} country/countries with a single language for all stations (likely bulk-filled):")
+        for cc, n, lang in sorted(bulk_warnings, key=lambda x: x[0]):
+            print(
+                f"  WARNING: country {cc} has all {n} stations with language {lang!r}, likely bulk-filled"
+            )
 
 if __name__ == "__main__":
     main()

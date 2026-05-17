@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T21:50:42.000Z",
+  "updatedAt": "2026-05-17T19:45:36.936494Z",
   "countries": [
     {
       "country": "United Arab Emirates",
@@ -611,66 +611,11 @@
           "bitrateKbps": 128,
           "country": "Austria",
           "countryCode": "AT",
-          "genre": "rock",
-          "id": "at-austrian-rock-radio",
+          "genre": "dance & electronic",
+          "id": "at-1000-electronic-dance-music",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Austrian Rock Radio",
-          "streamUrl": "http://live.antenne.at/arr",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "orf",
-          "id": "at-orf-radio-wien",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "ORF Radio Wien",
-          "streamUrl": "http://orf-live.ors-shoutcast.at/wie-q1a",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "various",
-          "id": "at-kronehit-digital",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "KroneHit Digital",
-          "streamUrl": "http://onair-ha1.krone.at/kronehit1058.mp3",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "orf",
-          "id": "at-fm4-orf",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "FM4 | ORF",
-          "streamUrl": "https://orf-live.ors-shoutcast.at/fm4-q1a",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "orf",
-          "id": "at-orf-slovenski-spored",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "ORF Slovenski spored",
-          "streamUrl": "http://orf-live.ors-shoutcast.at/wie-q1a",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 163,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "adult contemporary",
-          "id": "at-kronehit-radio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "KroneHit Radio",
-          "streamUrl": "http://onair-ha1.krone.at/kronehit64.aac",
+          "name": "1000 ELECTRONIC DANCE MUSIC",
+          "streamUrl": "http://stream.laut.fm/1000-electronic-dance-music",
           "language": "de"
         },
         {
@@ -688,132 +633,11 @@
           "bitrateKbps": 128,
           "country": "Austria",
           "countryCode": "AT",
-          "genre": "downtempo",
-          "id": "at-lounge-fm-100-austria",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Lounge.FM - 100% Austria",
-          "streamUrl": "https://s35.derstream.net/100austria.mp3",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "various",
-          "id": "at-superfly-fm",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Superfly FM",
-          "streamUrl": "http://stream01.superfly.fm:8080/live128",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Austria",
-          "countryCode": "AT",
           "genre": "various",
           "id": "at-antenne-steiermark",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Antenne Steiermark",
           "streamUrl": "http://live.antenne.at/as",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "children",
-          "id": "at-radino-mein-kinderradio-wien-103-2",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radino - Mein Kinderradio Wien 103,2",
-          "streamUrl": "http://stream01.zogl.net:8906/stream",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "dab+",
-          "id": "at-city23",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "CITY23",
-          "streamUrl": "http://live.radiomax.technology/city23",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "rock",
-          "id": "at-radio-88-6",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "radio 88.6",
-          "streamUrl": "http://radio886.at/streams/radio_88.6/mp3",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "80s",
-          "id": "at-darksynth-radio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Darksynth Radio",
-          "streamUrl": "http://stream.laut.fm/darksynthradio",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "orf",
-          "id": "at-fm4-orf-hq",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "FM4 | ORF | HQ",
-          "streamUrl": "https://orf-live.ors-shoutcast.at/fm4-q2a",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "orf",
-          "id": "at-orf-hitradio-3-hq",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "ORF Hitradio Ö3 | HQ",
-          "streamUrl": "https://orf-live.ors-shoutcast.at/oe3-q2a",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "orf",
-          "id": "at-orf-radio-nieder-sterreich-hq",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "ORF Radio Niederösterreich | HQ",
-          "streamUrl": "http://orf-live.ors-shoutcast.at/noe-q2a",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "various",
-          "id": "at-radio-u1-tirol",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio U1 Tirol",
-          "streamUrl": "https://live.u1-radio.at/",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Austria",
-          "countryCode": "AT",
-          "genre": "dance & electronic",
-          "id": "at-1000-electronic-dance-music",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "1000 ELECTRONIC DANCE MUSIC",
-          "streamUrl": "http://stream.laut.fm/1000-electronic-dance-music",
           "language": "de"
         },
         {
@@ -831,118 +655,188 @@
           "bitrateKbps": 128,
           "country": "Austria",
           "countryCode": "AT",
+          "genre": "rock",
+          "id": "at-austrian-rock-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Austrian Rock Radio",
+          "streamUrl": "http://live.antenne.at/arr",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "dab+",
+          "id": "at-city23",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "CITY23",
+          "streamUrl": "http://live.radiomax.technology/city23",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "80s",
+          "id": "at-darksynth-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Darksynth Radio",
+          "streamUrl": "http://stream.laut.fm/darksynthradio",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "orf",
+          "id": "at-fm4-orf",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "FM4 | ORF",
+          "streamUrl": "https://orf-live.ors-shoutcast.at/fm4-q1a",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "orf",
+          "id": "at-fm4-orf-hq",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "FM4 | ORF | HQ",
+          "streamUrl": "https://orf-live.ors-shoutcast.at/fm4-q2a",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "various",
+          "id": "at-kronehit-digital",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "KroneHit Digital",
+          "streamUrl": "http://onair-ha1.krone.at/kronehit1058.mp3",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 163,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "adult contemporary",
+          "id": "at-kronehit-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "KroneHit Radio",
+          "streamUrl": "http://onair-ha1.krone.at/kronehit64.aac",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "downtempo",
+          "id": "at-lounge-fm-100-austria",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Lounge.FM - 100% Austria",
+          "streamUrl": "https://s35.derstream.net/100austria.mp3",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "orf",
+          "id": "at-orf-hitradio-3-hq",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "ORF Hitradio Ö3 | HQ",
+          "streamUrl": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Austria",
+          "countryCode": "AT",
           "genre": "news talk",
           "id": "at-orf-oe1",
           "lastValidatedAt": "2026-04-17T12:00:00.000Z",
           "name": "ORF Ö1",
           "streamUrl": "https://orf-live.ors-shoutcast.at/oe1-q1a",
           "language": "de"
-        }
-      ]
-    },
-    {
-      "country": "Australia",
-      "countryCode": "AU",
-      "stations": [
-        {
-          "name": "3AW - Melbourne - 693 AM",
-          "genre": "news talk radio",
-          "id": "au-3aw-693am",
-          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3",
-          "bitrateKbps": 48,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
         },
         {
-          "name": "Sky News Australia Radio",
-          "genre": "news politics talk",
-          "id": "au-sky-news-radio",
-          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac",
-          "bitrateKbps": 64,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
-        },
-        {
-          "name": "SBS Chill",
-          "genre": "chillout",
-          "id": "au-sbs-chill",
-          "streamUrl": "https://sbs-ice.streamguys1.com/sbschill",
-          "bitrateKbps": 97,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
-        },
-        {
-          "name": "Gold 104.3",
-          "genre": "classic hits",
-          "id": "au-gold-1043",
-          "streamUrl": "https://ais-arn.streamguys1.com/au_004_icy",
-          "bitrateKbps": 48,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
-        },
-        {
-          "name": "ABC NewsRadio",
-          "genre": "abc news public radio",
-          "id": "au-abc-newsradio",
-          "streamUrl": "https://abc.streamguys1.com/live/newsradio/icecast.audio",
-          "bitrateKbps": 56,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
-        },
-        {
-          "name": "B105 105.3 Brisbane",
-          "genre": "adult contemporary",
-          "id": "au-b105-brisbane",
-          "streamUrl": "https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8",
-          "bitrateKbps": 130,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
-        },
-        {
-          "name": "Triple J",
-          "genre": "music",
-          "id": "au-triple-j",
-          "streamUrl": "https://abc.streamguys1.com/live/triplejnsw/icecast.audio",
-          "bitrateKbps": 56,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
-        },
-        {
-          "name": "80s 90s Super Pop Hits",
-          "genre": "80s 90s hits",
-          "id": "au-80s-90s-super-pop-hits",
-          "streamUrl": "https://s4.myradiostream.com:7344/listen.mp3",
           "bitrateKbps": 192,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "orf",
+          "id": "at-orf-radio-nieder-sterreich-hq",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "ORF Radio Niederösterreich | HQ",
+          "streamUrl": "http://orf-live.ors-shoutcast.at/noe-q2a",
+          "language": "de"
         },
         {
-          "name": "PBS FM - Melbourne - 106.7 FM",
-          "genre": "australian music community radio",
-          "id": "au-pbs-fm-1067",
-          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAAC.aac",
           "bitrateKbps": 128,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "orf",
+          "id": "at-orf-radio-wien",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "ORF Radio Wien",
+          "streamUrl": "http://orf-live.ors-shoutcast.at/wie-q1a",
+          "language": "de"
         },
         {
-          "name": "Huaxia Voice (全澳华语广播华厦之声)",
-          "genre": "chinese",
-          "id": "au-huaxia-voice-am1629",
-          "streamUrl": "http://46.4.40.246:8059/stream",
-          "bitrateKbps": 64,
-          "country": "Australia",
-          "countryCode": "AU",
-          "language": "en"
+          "bitrateKbps": 128,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "orf",
+          "id": "at-orf-slovenski-spored",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "ORF Slovenski spored",
+          "streamUrl": "http://orf-live.ors-shoutcast.at/wie-q1a",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "children",
+          "id": "at-radino-mein-kinderradio-wien-103-2",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radino - Mein Kinderradio Wien 103,2",
+          "streamUrl": "http://stream01.zogl.net:8906/stream",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "rock",
+          "id": "at-radio-88-6",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "radio 88.6",
+          "streamUrl": "http://radio886.at/streams/radio_88.6/mp3",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "various",
+          "id": "at-radio-u1-tirol",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radio U1 Tirol",
+          "streamUrl": "https://live.u1-radio.at/",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Austria",
+          "countryCode": "AT",
+          "genre": "various",
+          "id": "at-superfly-fm",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Superfly FM",
+          "streamUrl": "http://stream01.superfly.fm:8080/live128",
+          "language": "de"
         }
       ]
     },
@@ -1133,26 +1027,26 @@
       "countryCode": "BE",
       "stations": [
         {
-          "bitrateKbps": 0,
+          "bitrateKbps": 160,
           "country": "Belgium",
           "countryCode": "BE",
           "genre": "news",
           "id": "be-rtbf-la-premi-re",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "RTBF La Première",
-          "streamUrl": "https://radios.rtbf.be/laprem1ere-64.aac",
-          "language": "nl"
+          "streamUrl": "https://radio.rtbf.be/lapremiere/mp3-160/me",
+          "language": "fr"
         },
         {
-          "bitrateKbps": 0,
+          "bitrateKbps": 160,
           "country": "Belgium",
           "countryCode": "BE",
           "genre": "pop",
           "id": "be-rtbf-classic-21",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "RTBF Classic 21",
-          "streamUrl": "https://radios.rtbf.be/classic21-128.mp3",
-          "language": "nl"
+          "streamUrl": "https://radio.rtbf.be/c21/mp3-160/me",
+          "language": "fr"
         },
         {
           "bitrateKbps": 128,
@@ -1162,7 +1056,7 @@
           "id": "be-radio-eurodance-classic",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Radio Eurodance Classic",
-          "streamUrl": "http:quincy.torontocast.com:2380/stream",
+          "streamUrl": "http://quincy.torontocast.com:2380/stream",
           "language": "nl"
         },
         {
@@ -1174,7 +1068,7 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Bel RTL",
           "streamUrl": "http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3",
-          "language": "nl"
+          "language": "fr"
         },
         {
           "bitrateKbps": 0,
@@ -1207,7 +1101,7 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Fun Radio",
           "streamUrl": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
-          "language": "nl"
+          "language": "fr"
         },
         {
           "bitrateKbps": 192,
@@ -1265,17 +1159,6 @@
           "language": "nl"
         },
         {
-          "bitrateKbps": 0,
-          "country": "Belgium",
-          "countryCode": "BE",
-          "genre": "classical",
-          "id": "be-classic21",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Classic21",
-          "streamUrl": "http://radios.rtbf.be/classic21-128.mp3",
-          "language": "nl"
-        },
-        {
           "bitrateKbps": 192,
           "country": "Belgium",
           "countryCode": "BE",
@@ -1287,15 +1170,15 @@
           "language": "nl"
         },
         {
-          "bitrateKbps": 0,
+          "bitrateKbps": 160,
           "country": "Belgium",
           "countryCode": "BE",
           "genre": "music",
           "id": "be-pure-fm",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Pure (FM)",
-          "streamUrl": "https://radios.rtbf.be/pure-128.mp3",
-          "language": "nl"
+          "streamUrl": "https://radio.rtbf.be/pure/mp3-160/me",
+          "language": "fr"
         },
         {
           "bitrateKbps": 0,
@@ -1331,15 +1214,15 @@
           "language": "nl"
         },
         {
-          "bitrateKbps": 0,
+          "bitrateKbps": 160,
           "country": "Belgium",
           "countryCode": "BE",
           "genre": "rtbf",
           "id": "be-rtbf-vivacit-bruxelles",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "RTBF VivaCité Bruxelles",
-          "streamUrl": "https://radios.rtbf.be/vivabxl-64.aac",
-          "language": "nl"
+          "streamUrl": "https://radio.rtbf.be/vivacite-bxl/mp3-160/me",
+          "language": "fr"
         }
       ]
     },
@@ -2089,7 +1972,7 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "ICI Radio-Canada Première Montréal",
           "streamUrl": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8",
-          "language": "en"
+          "language": "fr"
         },
         {
           "bitrateKbps": 48,
@@ -2915,276 +2798,6 @@
       ]
     },
     {
-      "country": "Germany",
-      "countryCode": "DE",
-      "stations": [
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "music",
-          "id": "de-mangoradio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "MANGORADIO",
-          "streamUrl": "https://mangoradio.stream.laut.fm/mangoradio",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "heavy metal",
-          "id": "de-rock-antenne-heavy-metal",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Rock Antenne - Heavy Metal",
-          "streamUrl": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "ard",
-          "id": "de-1live",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "1LIVE",
-          "streamUrl": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 0,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "80s",
-          "id": "de-80s80s",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "80s80s",
-          "streamUrl": "http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 0,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "90s",
-          "id": "de-sunshine-live-die-90er",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Sunshine Live - Die 90er",
-          "streamUrl": "http://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 0,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "90s",
-          "id": "de-90s90s-hits",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "90s90s Hits",
-          "streamUrl": "http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 0,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "hiphop",
-          "id": "de-90s90s-hiphop-rap",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "90s90s HipHop & Rap",
-          "streamUrl": "http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "rock",
-          "id": "de-rock-antenne",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Rock Antenne",
-          "streamUrl": "http://mp3channels.webradio.rockantenne.de/rockantenne",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "information",
-          "id": "de-wdr-5",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "WDR 5",
-          "streamUrl": "http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "top 40",
-          "id": "de-antenne-bayern",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Antenne Bayern",
-          "streamUrl": "http://mp3channels.webradio.antenne.de/antenne",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 256,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "electronic",
-          "id": "de-trancebase-fm-aac-hd-256k",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "TranceBase.FM - AAC HD 256k",
-          "streamUrl": "http://listen.trancebase.fm/tunein-aac-hd-pls",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "dance",
-          "id": "de-technobase-fm",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "TechnoBase.FM",
-          "streamUrl": "http://lw2.mp3.tb-group.fm/tb.mp3",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 0,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "dance",
-          "id": "de-sunshine-live-techno",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Sunshine Live - Techno",
-          "streamUrl": "http://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "news",
-          "id": "de-swr3",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "SWR3",
-          "streamUrl": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 0,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "dance",
-          "id": "de-sunshine-live",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Sunshine Live",
-          "streamUrl": "http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "80er",
-          "id": "de-0-n-classic-rock-on-radio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "- 0 N - Classic Rock on Radio",
-          "streamUrl": "https://0n-classicrock.radionetz.de/0n-classicrock.mp3",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "chillout",
-          "id": "de-antenne-bayern-chillout",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Antenne Bayern - Chillout",
-          "streamUrl": "http://mp3channels.webradio.antenne.de/chillout",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 0,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "90s",
-          "id": "de-90s90s-dance-hq",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "90s90s Dance HQ",
-          "streamUrl": "http://streams.90s90s.de/eurodance/mp3-192/radiode/",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "adult contemporary",
-          "id": "de-radio-eins",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio Eins",
-          "streamUrl": "http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38HoeEhwMU9ZjQaArYLcNuLu9LN&token=VXH8C52tOJ6o_G5uLXexxjt84DXyHGfH0RABfQljedk&tvf=8PpblQ7uihhmMTIxLnJuZGZuay5jb20",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "ard",
-          "id": "de-inforadio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Inforadio",
-          "streamUrl": "https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "news talk",
-          "id": "de-deutschlandfunk",
-          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
-          "name": "Deutschlandfunk",
-          "streamUrl": "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "news talk",
-          "id": "de-deutschlandfunk-nova",
-          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
-          "name": "Deutschlandfunk Nova",
-          "streamUrl": "https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "news talk",
-          "id": "de-ndr-info",
-          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
-          "name": "NDR Info",
-          "streamUrl": "https://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3",
-          "language": "de"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Germany",
-          "countryCode": "DE",
-          "genre": "news talk",
-          "id": "de-bayern-2",
-          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
-          "name": "Bayern 2",
-          "streamUrl": "https://dispatcher.rndfnk.com/br/br2/live/mp3/128/stream.mp3",
-          "language": "de"
-        }
-      ]
-    },
-    {
       "country": "Denmark",
       "countryCode": "DK",
       "stations": [
@@ -3242,6 +2855,276 @@
           "country": "Denmark",
           "countryCode": "DK",
           "language": "da"
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "countryCode": "DE",
+      "stations": [
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "80er",
+          "id": "de-0-n-classic-rock-on-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "- 0 N - Classic Rock on Radio",
+          "streamUrl": "https://0n-classicrock.radionetz.de/0n-classicrock.mp3",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "ard",
+          "id": "de-1live",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "1LIVE",
+          "streamUrl": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 0,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "80s",
+          "id": "de-80s80s",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "80s80s",
+          "streamUrl": "http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 0,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "90s",
+          "id": "de-90s90s-dance-hq",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "90s90s Dance HQ",
+          "streamUrl": "http://streams.90s90s.de/eurodance/mp3-192/radiode/",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 0,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "hiphop",
+          "id": "de-90s90s-hiphop-rap",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "90s90s HipHop & Rap",
+          "streamUrl": "http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 0,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "90s",
+          "id": "de-90s90s-hits",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "90s90s Hits",
+          "streamUrl": "http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "top 40",
+          "id": "de-antenne-bayern",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Antenne Bayern",
+          "streamUrl": "http://mp3channels.webradio.antenne.de/antenne",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "chillout",
+          "id": "de-antenne-bayern-chillout",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Antenne Bayern - Chillout",
+          "streamUrl": "http://mp3channels.webradio.antenne.de/chillout",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "news talk",
+          "id": "de-bayern-2",
+          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
+          "name": "Bayern 2",
+          "streamUrl": "https://dispatcher.rndfnk.com/br/br2/live/mp3/128/stream.mp3",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "news talk",
+          "id": "de-deutschlandfunk",
+          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
+          "name": "Deutschlandfunk",
+          "streamUrl": "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "news talk",
+          "id": "de-deutschlandfunk-nova",
+          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
+          "name": "Deutschlandfunk Nova",
+          "streamUrl": "https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "ard",
+          "id": "de-inforadio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Inforadio",
+          "streamUrl": "http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "music",
+          "id": "de-mangoradio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "MANGORADIO",
+          "streamUrl": "https://mangoradio.stream.laut.fm/mangoradio",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "news talk",
+          "id": "de-ndr-info",
+          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
+          "name": "NDR Info",
+          "streamUrl": "https://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "adult contemporary",
+          "id": "de-radio-eins",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radio Eins",
+          "streamUrl": "http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38HoeEhwMU9ZjQaArYLcNuLu9LN&token=VXH8C52tOJ6o_G5uLXexxjt84DXyHGfH0RABfQljedk&tvf=8PpblQ7uihhmMTIxLnJuZGZuay5jb20",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "rock",
+          "id": "de-rock-antenne",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Rock Antenne",
+          "streamUrl": "http://mp3channels.webradio.rockantenne.de/rockantenne",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "heavy metal",
+          "id": "de-rock-antenne-heavy-metal",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Rock Antenne - Heavy Metal",
+          "streamUrl": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 0,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "dance",
+          "id": "de-sunshine-live",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Sunshine Live",
+          "streamUrl": "http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 0,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "90s",
+          "id": "de-sunshine-live-die-90er",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Sunshine Live - Die 90er",
+          "streamUrl": "http://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 0,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "dance",
+          "id": "de-sunshine-live-techno",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Sunshine Live - Techno",
+          "streamUrl": "http://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "news",
+          "id": "de-swr3",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "SWR3",
+          "streamUrl": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "dance",
+          "id": "de-technobase-fm",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "TechnoBase.FM",
+          "streamUrl": "http://lw2.mp3.tb-group.fm/tb.mp3",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 256,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "electronic",
+          "id": "de-trancebase-fm-aac-hd-256k",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "TranceBase.FM - AAC HD 256k",
+          "streamUrl": "http://listen.trancebase.fm/tunein-aac-hd-pls",
+          "language": "de"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Germany",
+          "countryCode": "DE",
+          "genre": "information",
+          "id": "de-wdr-5",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "WDR 5",
+          "streamUrl": "http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
+          "language": "de"
         }
       ]
     },
@@ -3588,6 +3471,1249 @@
       ]
     },
     {
+      "country": "Australia",
+      "countryCode": "AU",
+      "stations": [
+        {
+          "name": "3AW - Melbourne - 693 AM",
+          "genre": "news talk radio",
+          "id": "au-3aw-693am",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3",
+          "bitrateKbps": 48,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        },
+        {
+          "name": "Sky News Australia Radio",
+          "genre": "news politics talk",
+          "id": "au-sky-news-radio",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac",
+          "bitrateKbps": 64,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        },
+        {
+          "name": "SBS Chill",
+          "genre": "chillout",
+          "id": "au-sbs-chill",
+          "streamUrl": "https://sbs-ice.streamguys1.com/sbschill",
+          "bitrateKbps": 97,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        },
+        {
+          "name": "Gold 104.3",
+          "genre": "classic hits",
+          "id": "au-gold-1043",
+          "streamUrl": "https://ais-arn.streamguys1.com/au_004_icy",
+          "bitrateKbps": 48,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        },
+        {
+          "name": "ABC NewsRadio",
+          "genre": "abc news public radio",
+          "id": "au-abc-newsradio",
+          "streamUrl": "https://abc.streamguys1.com/live/newsradio/icecast.audio",
+          "bitrateKbps": 56,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        },
+        {
+          "name": "B105 105.3 Brisbane",
+          "genre": "adult contemporary",
+          "id": "au-b105-brisbane",
+          "streamUrl": "https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8",
+          "bitrateKbps": 130,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        },
+        {
+          "name": "Triple J",
+          "genre": "music",
+          "id": "au-triple-j",
+          "streamUrl": "https://abc.streamguys1.com/live/triplejnsw/icecast.audio",
+          "bitrateKbps": 56,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        },
+        {
+          "name": "80s 90s Super Pop Hits",
+          "genre": "80s 90s hits",
+          "id": "au-80s-90s-super-pop-hits",
+          "streamUrl": "https://s4.myradiostream.com:7344/listen.mp3",
+          "bitrateKbps": 192,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        },
+        {
+          "name": "PBS FM - Melbourne - 106.7 FM",
+          "genre": "australian music community radio",
+          "id": "au-pbs-fm-1067",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAAC.aac",
+          "bitrateKbps": 128,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        },
+        {
+          "name": "Huaxia Voice (全澳华语广播华厦之声)",
+          "genre": "chinese",
+          "id": "au-huaxia-voice-am1629",
+          "streamUrl": "http://46.4.40.246:8059/stream",
+          "bitrateKbps": 64,
+          "country": "Australia",
+          "countryCode": "AU",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "country": "Finland",
+      "countryCode": "FI",
+      "stations": [
+        {
+          "bitrateKbps": 128,
+          "country": "Finland",
+          "countryCode": "FI",
+          "genre": "news talk",
+          "id": "fi-yle-radio-1",
+          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
+          "name": "YLE Radio 1",
+          "streamUrl": "https://icecast.live.yle.fi/radio/YleRadio1/icecast.audio",
+          "language": "fi"
+        },
+        {
+          "name": "Basso",
+          "genre": "rap",
+          "id": "rb-2c794d05-0cc1-4dfa-be31-52c0ab2cc19d",
+          "stationUUID": "2c794d05-0cc1-4dfa-be31-52c0ab2cc19d",
+          "streamUrl": "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac",
+          "bitrateKbps": 64,
+          "country": "Finland",
+          "countryCode": "FI",
+          "language": "fi"
+        },
+        {
+          "name": "Iskelmä",
+          "genre": "iskelmä",
+          "id": "rb-451e4f89-5318-4995-b3ab-b10610874f6b",
+          "stationUUID": "451e4f89-5318-4995-b3ab-b10610874f6b",
+          "streamUrl": "https://stream.bauermedia.fi/iskelma/iskelma_128.mp3",
+          "bitrateKbps": 128,
+          "country": "Finland",
+          "countryCode": "FI",
+          "language": "fi"
+        },
+        {
+          "name": "Ålands Radio",
+          "genre": "music",
+          "id": "rb-942a812b-1fa2-4112-8a78-65e74bf67006",
+          "stationUUID": "942a812b-1fa2-4112-8a78-65e74bf67006",
+          "streamUrl": "https://stream.alandsradio.ax/stream.ogg",
+          "country": "Finland",
+          "countryCode": "FI",
+          "language": "fi"
+        },
+        {
+          "name": "Finest Fm",
+          "genre": "hits",
+          "id": "rb-962c3bf0-0601-11e8-ae97-52543be04c81",
+          "stationUUID": "962c3bf0-0601-11e8-ae97-52543be04c81",
+          "streamUrl": "http://212.47.220.188:8000/listen.mp3",
+          "bitrateKbps": 192,
+          "country": "Finland",
+          "countryCode": "FI",
+          "language": "fi"
+        },
+        {
+          "name": "Groove FM",
+          "genre": "blues funk jazz soul",
+          "id": "rb-98f551af-b40b-4035-a9cb-a531320a45d9",
+          "stationUUID": "98f551af-b40b-4035-a9cb-a531320a45d9",
+          "streamUrl": "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+          "bitrateKbps": 262,
+          "country": "Finland",
+          "countryCode": "FI",
+          "language": "fi"
+        },
+        {
+          "name": "Tick Tock Radio - 1950",
+          "genre": "1950",
+          "id": "rb-ab909bf6-16f9-4066-b000-9b0b1bb5cd9c",
+          "stationUUID": "ab909bf6-16f9-4066-b000-9b0b1bb5cd9c",
+          "streamUrl": "https://streaming.ticktock.radio/tt/1950/icecast.audio",
+          "country": "Finland",
+          "countryCode": "FI",
+          "language": "fi"
+        },
+        {
+          "name": "Doubleclap Radio",
+          "genre": "dance electronic house trance",
+          "id": "rb-fed9a975-d67c-44d1-8591-f44208c196e3",
+          "stationUUID": "fed9a975-d67c-44d1-8591-f44208c196e3",
+          "streamUrl": "https://s3.radio.co/scfd7273b2/listen",
+          "bitrateKbps": 192,
+          "country": "Finland",
+          "countryCode": "FI",
+          "language": "fi"
+        },
+        {
+          "name": "Yle Radio 1",
+          "genre": "news talk music",
+          "id": "rb-yle-r1-finland",
+          "stationUUID": "yle-r1-finland",
+          "streamUrl": "https://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio",
+          "bitrateKbps": 128,
+          "country": "Finland",
+          "countryCode": "FI",
+          "language": "fi"
+        }
+      ]
+    },
+    {
+      "country": "Ireland",
+      "countryCode": "IE",
+      "stations": [
+        {
+          "name": "RTÉ Radio 1",
+          "genre": "radio",
+          "id": "ie-rte-radio-1",
+          "streamUrl": "http://icecast.rte.ie/radio1",
+          "bitrateKbps": 160,
+          "country": "Ireland",
+          "countryCode": "IE",
+          "language": "en"
+        },
+        {
+          "name": "Newstalk",
+          "genre": "radio",
+          "id": "ie-newstalk",
+          "streamUrl": "https://edge.audioxi.com/NT",
+          "bitrateKbps": 25,
+          "country": "Ireland",
+          "countryCode": "IE",
+          "language": "en"
+        },
+        {
+          "name": "RTÉ Lyric FM",
+          "genre": "radio",
+          "id": "ie-rte-lyric-fm",
+          "streamUrl": "http://icecast.rte.ie/lyric",
+          "bitrateKbps": 160,
+          "country": "Ireland",
+          "countryCode": "IE",
+          "language": "en"
+        },
+        {
+          "name": "Irish Country Music Radio",
+          "genre": "radio",
+          "id": "ie-irish-country-music-radio",
+          "streamUrl": "http://46.28.49.164:7502/",
+          "bitrateKbps": 128,
+          "country": "Ireland",
+          "countryCode": "IE",
+          "language": "en"
+        },
+        {
+          "name": "Irish Pub Radio",
+          "genre": "radio",
+          "id": "ie-irish-pub-radio",
+          "streamUrl": "http://solid24.streamupsolutions.com:8026/stream",
+          "bitrateKbps": 128,
+          "country": "Ireland",
+          "countryCode": "IE",
+          "language": "en"
+        },
+        {
+          "name": "Deep House Radio",
+          "genre": "radio",
+          "id": "ie-deep-house-radio",
+          "streamUrl": "https://streaming.shoutcast.com/dhr",
+          "bitrateKbps": 128,
+          "country": "Ireland",
+          "countryCode": "IE",
+          "language": "en"
+        },
+        {
+          "name": "Classic Hits 4FM",
+          "genre": "radio",
+          "id": "ie-classic-hits-4fm",
+          "streamUrl": "http://stream.audioxi.com/CLASSIC",
+          "bitrateKbps": 128,
+          "country": "Ireland",
+          "countryCode": "IE",
+          "language": "en"
+        },
+        {
+          "name": "Vinyl Stacks",
+          "genre": "radio",
+          "id": "ie-vinyl-stacks",
+          "streamUrl": "https://vinylstacks.uncool.club/vinyl-stacks.mp3",
+          "country": "Ireland",
+          "countryCode": "IE",
+          "language": "en"
+        },
+        {
+          "name": "Deephouse Radio (Everestcast)",
+          "genre": "radio",
+          "id": "ie-deephouse-radio-everestcast",
+          "streamUrl": "http://ec1.everestcast.host:1490/stream",
+          "bitrateKbps": 320,
+          "country": "Ireland",
+          "countryCode": "IE",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "country": "Israel",
+      "countryCode": "IL",
+      "stations": [
+        {
+          "name": "Kan Makan",
+          "genre": "radio",
+          "id": "il-kan-makan",
+          "streamUrl": "http://kanliveicy.media.kan.org.il/icy/makan_mp3",
+          "bitrateKbps": 128,
+          "country": "Israel",
+          "countryCode": "IL",
+          "language": "he"
+        },
+        {
+          "name": "Kan Bet",
+          "genre": "radio",
+          "id": "il-kan-bet",
+          "streamUrl": "https://28563.live.streamtheworld.com/KAN_BET.mp3",
+          "bitrateKbps": 128,
+          "country": "Israel",
+          "countryCode": "IL",
+          "language": "he"
+        },
+        {
+          "name": "Glglz",
+          "genre": "radio",
+          "id": "il-glglz",
+          "streamUrl": "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE",
+          "bitrateKbps": 128,
+          "country": "Israel",
+          "countryCode": "IL",
+          "language": "he"
+        },
+        {
+          "name": "Radio 103FM",
+          "genre": "radio",
+          "id": "il-radio-103fm",
+          "streamUrl": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+          "country": "Israel",
+          "countryCode": "IL",
+          "language": "he"
+        },
+        {
+          "name": "Galei Zahal",
+          "genre": "radio",
+          "id": "il-galei-zahal",
+          "streamUrl": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+          "bitrateKbps": 128,
+          "country": "Israel",
+          "countryCode": "IL",
+          "language": "he"
+        },
+        {
+          "name": "Joint Radio Blues Rock",
+          "genre": "radio",
+          "id": "il-joint-radio-blues-rock",
+          "streamUrl": "https://jointil.com/stream-blues",
+          "bitrateKbps": 320,
+          "country": "Israel",
+          "countryCode": "IL",
+          "language": "he"
+        },
+        {
+          "name": "Kan 88",
+          "genre": "radio",
+          "id": "il-kan-88",
+          "streamUrl": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3",
+          "bitrateKbps": 192,
+          "country": "Israel",
+          "countryCode": "IL",
+          "language": "he"
+        },
+        {
+          "name": "Kan Gimel",
+          "genre": "radio",
+          "id": "il-kan-gimel",
+          "streamUrl": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
+          "bitrateKbps": 192,
+          "country": "Israel",
+          "countryCode": "IL",
+          "language": "he"
+        }
+      ]
+    },
+    {
+      "country": "Norway",
+      "countryCode": "NO",
+      "stations": [
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-clasico",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Clásico",
+          "streamUrl": "https://audio.radioaalesund.no/clasico_mq",
+          "language": "no"
+        },
+        {
+          "name": "NRJ Norge",
+          "genre": "radio",
+          "id": "no-nrj-norge",
+          "stationUUID": "no-nrj-norge",
+          "streamUrl": "https://live-bauerno.sharp-stream.com/kiss_no_mp3?direct=true",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK Folkemusikk",
+          "genre": "folk",
+          "id": "no-nrk-folkemusikk",
+          "stationUUID": "no-nrk-folkemusikk",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK Jazz",
+          "genre": "radio",
+          "id": "no-nrk-jazz",
+          "stationUUID": "no-nrk-jazz",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK Klassisk",
+          "genre": "classical",
+          "id": "no-nrk-klassisk",
+          "stationUUID": "no-nrk-klassisk",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/klassisk",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK MP3",
+          "genre": "radio",
+          "id": "no-nrk-mp3",
+          "stationUUID": "no-nrk-mp3",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK Nyheter",
+          "genre": "news",
+          "id": "no-nrk-nyheter",
+          "stationUUID": "no-nrk-nyheter",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/nyheter",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1",
+          "genre": "news talk",
+          "id": "no-nrk-p1",
+          "stationUUID": "no-nrk-p1",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Buskerud",
+          "genre": "news talk",
+          "id": "no-nrk-p1-buskerud",
+          "stationUUID": "no-nrk-p1-buskerud",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk13",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Finnmark",
+          "genre": "news talk",
+          "id": "no-nrk-p1-finnmark",
+          "stationUUID": "no-nrk-p1-finnmark",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk2",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Hordaland",
+          "genre": "news talk",
+          "id": "no-nrk-p1-hordaland",
+          "stationUUID": "no-nrk-p1-hordaland",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk8",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Innlandet",
+          "genre": "news talk",
+          "id": "no-nrk-p1-innlandet",
+          "stationUUID": "no-nrk-p1-innlandet",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk14",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Møre og Romsdal",
+          "genre": "news talk",
+          "id": "no-nrk-p1-more-og-romsdal",
+          "stationUUID": "no-nrk-p1-more-og-romsdal",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk6",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Nordland",
+          "genre": "news talk",
+          "id": "no-nrk-p1-nordland",
+          "stationUUID": "no-nrk-p1-nordland",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Østfold",
+          "genre": "news talk",
+          "id": "no-nrk-p1-ostfold",
+          "stationUUID": "no-nrk-p1-ostfold",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk15",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1+",
+          "genre": "news talk",
+          "id": "no-nrk-p1-plus",
+          "stationUUID": "no-nrk-p1-plus",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1pluss",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Rogaland",
+          "genre": "news talk",
+          "id": "no-nrk-p1-rogaland",
+          "stationUUID": "no-nrk-p1-rogaland",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Sogn og Fjordane",
+          "genre": "news talk",
+          "id": "no-nrk-p1-sogn-og-fjordane",
+          "stationUUID": "no-nrk-p1-sogn-og-fjordane",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Sørlandet",
+          "genre": "news talk",
+          "id": "no-nrk-p1-sorlandet",
+          "stationUUID": "no-nrk-p1-sorlandet",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk10",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Stor-Oslo",
+          "genre": "radio",
+          "id": "no-nrk-p1-stor-oslo",
+          "stationUUID": "no-nrk-p1-stor-oslo",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Telemark",
+          "genre": "news talk",
+          "id": "no-nrk-p1-telemark",
+          "stationUUID": "no-nrk-p1-telemark",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk11",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Troms",
+          "genre": "news talk",
+          "id": "no-nrk-p1-troms",
+          "stationUUID": "no-nrk-p1-troms",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk3",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Trøndelag",
+          "genre": "news talk",
+          "id": "no-nrk-p1-trondelag",
+          "stationUUID": "no-nrk-p1-trondelag",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk5",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P1 Vestfold",
+          "genre": "news talk",
+          "id": "no-nrk-p1-vestfold",
+          "stationUUID": "no-nrk-p1-vestfold",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk12",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P2",
+          "genre": "radio",
+          "id": "no-nrk-p2",
+          "stationUUID": "no-nrk-p2",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
+          "bitrateKbps": 159,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P3",
+          "genre": "radio",
+          "id": "no-nrk-p3",
+          "stationUUID": "no-nrk-p3",
+          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK P3 Musikk",
+          "genre": "music",
+          "id": "no-nrk-p3-musikk",
+          "stationUUID": "no-nrk-p3-musikk",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p3musikk",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK Radio Super",
+          "genre": "radio",
+          "id": "no-nrk-radio-super",
+          "stationUUID": "no-nrk-radio-super",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/radio_super",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "NRK Sámi radio",
+          "genre": "talk",
+          "id": "no-nrk-sami-radio",
+          "stationUUID": "no-nrk-sami-radio",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/sapmi",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "se"
+        },
+        {
+          "name": "NRK Sport",
+          "genre": "sport",
+          "id": "no-nrk-sport",
+          "stationUUID": "no-nrk-sport",
+          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/sport",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "P10 Country",
+          "genre": "radio",
+          "id": "no-p10-country",
+          "stationUUID": "no-p10-country",
+          "streamUrl": "https://p10.p4groupaudio.com/P10_AH",
+          "bitrateKbps": 191,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "P4 Norge",
+          "genre": "radio",
+          "id": "no-p4-norge",
+          "stationUUID": "no-p4-norge",
+          "streamUrl": "https://p4.p4groupaudio.com/P04_AH",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-alesund",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Ålesund",
+          "streamUrl": "https://audio.radioaalesund.no/aalesund_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-atlantic",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Atlantic",
+          "streamUrl": "https://audio.radioaalesund.no/atlantic_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-nordsjo",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Nordsjø",
+          "streamUrl": "https://audio.radioaalesund.no/nordsjo_mq",
+          "language": "no"
+        },
+        {
+          "name": "Radio Norge",
+          "genre": "radio",
+          "id": "no-radio-norge",
+          "stationUUID": "no-radio-norge",
+          "streamUrl": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3?direct=true",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-radio-tonsberg",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Radio Tønsberg",
+          "streamUrl": "https://audio.radioaalesund.no/tonsberg_mq",
+          "language": "no"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "genre": "local",
+          "id": "no-scansat",
+          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
+          "name": "Scansat",
+          "streamUrl": "https://audio.radioaalesund.no/scansat_mq",
+          "language": "no"
+        },
+        {
+          "name": "historyradio.org",
+          "genre": "educational history talk",
+          "id": "rb-0cb4f6de-8e44-11e8-aa66-52543be04c81",
+          "stationUUID": "0cb4f6de-8e44-11e8-aa66-52543be04c81",
+          "streamUrl": "https://stream.radiojar.com/6bmecgg3wd5tv",
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "5000 Bergen",
+          "genre": "country easy listening edm hits pop",
+          "id": "rb-2f147458-9d03-47e3-a3c5-50e1c62459f5",
+          "stationUUID": "2f147458-9d03-47e3-a3c5-50e1c62459f5",
+          "streamUrl": "https://bergen5000.radioca.st/stream",
+          "bitrateKbps": 320,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "1FM Molde",
+          "genre": "music",
+          "id": "rb-5a673cf3-a64a-4685-a721-e335d5370779",
+          "stationUUID": "5a673cf3-a64a-4685-a721-e335d5370779",
+          "streamUrl": "https://s2.radio.co/s914ffa700/listen",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "Klem FM",
+          "genre": "music",
+          "id": "rb-6f4fe23b-25c3-4401-a01e-15bce5da1352",
+          "stationUUID": "6f4fe23b-25c3-4401-a01e-15bce5da1352",
+          "streamUrl": "https://p7.p4groupaudio.com/P07_MM",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "Hamar Radioen",
+          "genre": "news pop rock",
+          "id": "rb-7508f652-57d1-4b63-bd2b-84f4bdfbc632",
+          "stationUUID": "7508f652-57d1-4b63-bd2b-84f4bdfbc632",
+          "streamUrl": "https://lyd.radioene.no/hamar.mp3",
+          "bitrateKbps": 128,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "Guovdageainnu Lagasradio",
+          "genre": "music",
+          "id": "rb-8f0acc25-024b-41d4-b472-5636ed798d68",
+          "stationUUID": "8f0acc25-024b-41d4-b472-5636ed798d68",
+          "streamUrl": "https://streaming.radio.co/s5b773f8d3/listen",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        },
+        {
+          "name": "Metal Express Radio",
+          "genre": "metal",
+          "id": "rb-ede7b712-b68a-11e8-aaf2-52543be04c81",
+          "stationUUID": "ede7b712-b68a-11e8-aaf2-52543be04c81",
+          "streamUrl": "http://s39.myradiostream.com:11590/;",
+          "bitrateKbps": 192,
+          "country": "Norway",
+          "countryCode": "NO",
+          "language": "no"
+        }
+      ]
+    },
+    {
+      "country": "New Zealand",
+      "countryCode": "NZ",
+      "stations": [
+        {
+          "name": "Magic FM",
+          "genre": "radio",
+          "id": "nz-magic-fm",
+          "streamUrl": "https://mediaworks.streamguys1.com/magic_net_icy",
+          "bitrateKbps": 130,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        },
+        {
+          "name": "The Sound",
+          "genre": "radio",
+          "id": "nz-the-sound",
+          "streamUrl": "https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8",
+          "bitrateKbps": 130,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        },
+        {
+          "name": "The Breeze 93.4",
+          "genre": "radio",
+          "id": "nz-the-breeze-934",
+          "streamUrl": "https://mediaworks.streamguys1.com/breeze-akl-high_icy",
+          "bitrateKbps": 130,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        },
+        {
+          "name": "The Hits",
+          "genre": "radio",
+          "id": "nz-the-hits",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8",
+          "bitrateKbps": 64,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        },
+        {
+          "name": "Coast FM",
+          "genre": "radio",
+          "id": "nz-coast",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8",
+          "bitrateKbps": 64,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        },
+        {
+          "name": "The Edge",
+          "genre": "radio",
+          "id": "nz-the-edge",
+          "streamUrl": "https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8",
+          "bitrateKbps": 130,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        },
+        {
+          "name": "Radio Chinese FM90.6",
+          "genre": "radio",
+          "id": "nz-radio-chinese-fm906",
+          "streamUrl": "https://s26.myradiostream.com:20274/listen.mp3",
+          "bitrateKbps": 128,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        },
+        {
+          "name": "ZM Wellington",
+          "genre": "radio",
+          "id": "nz-zm-wellington",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8",
+          "bitrateKbps": 64,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        },
+        {
+          "name": "Mai FM",
+          "genre": "radio",
+          "id": "nz-mai-fm",
+          "streamUrl": "https://mediaworks.streamguys1.com/mai_net_icy",
+          "bitrateKbps": 129,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        },
+        {
+          "name": "RNZ National",
+          "genre": "radio",
+          "id": "nz-rnz-national",
+          "streamUrl": "http://radionz-ice.streamguys.com/national.mp3",
+          "bitrateKbps": 64,
+          "country": "New Zealand",
+          "countryCode": "NZ",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "country": "Sweden",
+      "countryCode": "SE",
+      "stations": [
+        {
+          "name": "Bandit Ballads",
+          "genre": "ballads rock",
+          "id": "rb-12824d18-3891-402f-b7a9-b8d75bfe3b99",
+          "stationUUID": "12824d18-3891-402f-b7a9-b8d75bfe3b99",
+          "streamUrl": "https://wr21-ice.stream.khz.se/wr21_aac",
+          "bitrateKbps": 96,
+          "country": "Sweden",
+          "countryCode": "SE",
+          "language": "sv"
+        },
+        {
+          "name": "Bandit ÍRock",
+          "genre": "rock",
+          "id": "rb-22567e75-4c10-4dde-9c51-5940b128f6cb",
+          "stationUUID": "22567e75-4c10-4dde-9c51-5940b128f6cb",
+          "streamUrl": "https://fm02-ice.stream.khz.se/fm02_mp3",
+          "bitrateKbps": 128,
+          "country": "Sweden",
+          "countryCode": "SE",
+          "language": "sv"
+        },
+        {
+          "name": "Bandit Classic Rock",
+          "genre": "classic rock",
+          "id": "rb-40dfa430-7988-4b02-ae1b-ce5fe8b5aad3",
+          "stationUUID": "40dfa430-7988-4b02-ae1b-ce5fe8b5aad3",
+          "streamUrl": "https://wr11-ice.stream.khz.se/wr11_mp3",
+          "bitrateKbps": 128,
+          "country": "Sweden",
+          "countryCode": "SE",
+          "language": "sv"
+        },
+        {
+          "name": "Bandit Alternative",
+          "genre": "alternative",
+          "id": "rb-6d52fc82-42d2-4b29-aece-d84e1f1c641d",
+          "stationUUID": "6d52fc82-42d2-4b29-aece-d84e1f1c641d",
+          "streamUrl": "https://wr05-ice.stream.khz.se/wr05_mp3",
+          "bitrateKbps": 128,
+          "country": "Sweden",
+          "countryCode": "SE",
+          "language": "sv"
+        },
+        {
+          "name": "Bandit Metal",
+          "genre": "death metal hard rock metal",
+          "id": "rb-78563d75-79f2-4c67-a80d-291891e2fb88",
+          "stationUUID": "78563d75-79f2-4c67-a80d-291891e2fb88",
+          "streamUrl": "https://wr03-ice.stream.khz.se/wr03_mp3",
+          "bitrateKbps": 128,
+          "country": "Sweden",
+          "countryCode": "SE",
+          "language": "sv"
+        },
+        {
+          "name": "106,7 Rockklassiker",
+          "genre": "classic rock",
+          "id": "rb-9642ad8b-0601-11e8-ae97-52543be04c81",
+          "stationUUID": "9642ad8b-0601-11e8-ae97-52543be04c81",
+          "streamUrl": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3",
+          "bitrateKbps": 128,
+          "country": "Sweden",
+          "countryCode": "SE",
+          "language": "sv"
+        },
+        {
+          "name": "Borås Närradio",
+          "genre": "community",
+          "id": "rb-964338ec-0601-11e8-ae97-52543be04c81",
+          "stationUUID": "964338ec-0601-11e8-ae97-52543be04c81",
+          "streamUrl": "http://lyssna.fnf.nu:8080/radioboras.mp3",
+          "bitrateKbps": 128,
+          "country": "Sweden",
+          "countryCode": "SE",
+          "language": "sv"
+        },
+        {
+          "id": "se-sr-p1",
+          "name": "Sveriges Radio P1",
+          "genre": "news talk",
+          "language": "sv",
+          "streamUrl": "https://live1.sr.se/p1-aac-128",
+          "bitrateKbps": 128,
+          "country": "Sweden",
+          "countryCode": "SE"
+        }
+      ]
+    },
+    {
+      "country": "Turkmenistan",
+      "countryCode": "TM",
+      "stations": [
+        {
+          "name": "Abdulbasit Abdulsamad",
+          "genre": "arabic",
+          "id": "rb-435f7756-ddcc-49fd-a692-321f22c0dd1d",
+          "stationUUID": "435f7756-ddcc-49fd-a692-321f22c0dd1d",
+          "streamUrl": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+          "bitrateKbps": 192,
+          "country": "Turkmenistan",
+          "countryCode": "TM",
+          "language": "tk"
+        },
+        {
+          "name": "Hayatmix",
+          "genre": "music",
+          "id": "rb-d5b40b49-b53b-43ce-b310-457182a6cf90",
+          "stationUUID": "d5b40b49-b53b-43ce-b310-457182a6cf90",
+          "streamUrl": "https://hayatmix.net/;yayin.mp3/;",
+          "bitrateKbps": 192,
+          "country": "Turkmenistan",
+          "countryCode": "TM",
+          "language": "tk"
+        },
+        {
+          "name": "The Holy Quran by Sheikh Mahmoud Al-Husari",
+          "genre": "islamic classical",
+          "id": "rb-ffbb6a33-a356-4143-a13c-95c8c8caddc4",
+          "stationUUID": "ffbb6a33-a356-4143-a13c-95c8c8caddc4",
+          "streamUrl": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+          "bitrateKbps": 128,
+          "country": "Turkmenistan",
+          "countryCode": "TM",
+          "language": "tk"
+        },
+        {
+          "name": "Uğur Öztürk",
+          "genre": "folk",
+          "id": "rb-6e5eaddc-0afa-4e20-817d-3802475d7c07",
+          "stationUUID": "6e5eaddc-0afa-4e20-817d-3802475d7c07",
+          "streamUrl": "https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1",
+          "bitrateKbps": 96,
+          "country": "Turkmenistan",
+          "countryCode": "TM",
+          "language": "tk"
+        }
+      ]
+    },
+    {
+      "country": "Turkey",
+      "countryCode": "TR",
+      "stations": [
+        {
+          "name": "Slow Turk",
+          "genre": "radio",
+          "id": "tr-slow-turk",
+          "streamUrl": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        },
+        {
+          "name": "Radyo 7",
+          "genre": "radio",
+          "id": "tr-radyo-7",
+          "streamUrl": "http://46.20.3.250/;stream",
+          "bitrateKbps": 128,
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        },
+        {
+          "name": "Power POP",
+          "genre": "radio",
+          "id": "tr-power-pop",
+          "streamUrl": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
+          "bitrateKbps": 128,
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        },
+        {
+          "name": "Damar Turk FM",
+          "genre": "radio",
+          "id": "tr-damar-turk-fm",
+          "streamUrl": "https://live.radyositesihazir.com:10997/",
+          "bitrateKbps": 192,
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        },
+        {
+          "name": "KRAL FM",
+          "genre": "radio",
+          "id": "tr-kral-fm",
+          "streamUrl": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+          "bitrateKbps": 128,
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        },
+        {
+          "name": "Radyo 45lik",
+          "genre": "radio",
+          "id": "tr-radyo-45lik",
+          "streamUrl": "https://stream.radyo45lik.com:4545/",
+          "bitrateKbps": 128,
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        },
+        {
+          "name": "Super FM",
+          "genre": "radio",
+          "id": "tr-super-fm",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
+          "bitrateKbps": 64,
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        },
+        {
+          "name": "Virgin Radio Türkiye",
+          "genre": "radio",
+          "id": "tr-virgin-radio",
+          "streamUrl": "http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC",
+          "bitrateKbps": 64,
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        },
+        {
+          "name": "90lar Turkey",
+          "genre": "radio",
+          "id": "tr-90lar-turkey",
+          "streamUrl": "http://37.247.98.8/stream/166/",
+          "bitrateKbps": 128,
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        },
+        {
+          "name": "Süper FM (AAC)",
+          "genre": "radio",
+          "id": "tr-super-fm-aac",
+          "streamUrl": "http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
+          "bitrateKbps": 64,
+          "country": "Turkey",
+          "countryCode": "TR",
+          "language": "tr"
+        }
+      ]
+    },
+    {
       "country": "Spain",
       "countryCode": "ES",
       "stations": [
@@ -3814,165 +4940,51 @@
       ]
     },
     {
-      "country": "Finland",
-      "countryCode": "FI",
-      "stations": [
-        {
-          "name": "Tick Tock Radio - 1950",
-          "genre": "1950",
-          "id": "rb-ab909bf6-16f9-4066-b000-9b0b1bb5cd9c",
-          "stationUUID": "ab909bf6-16f9-4066-b000-9b0b1bb5cd9c",
-          "streamUrl": "https://streaming.ticktock.radio/tt/1950/icecast.audio",
-          "country": "Finland",
-          "countryCode": "FI",
-          "language": "fi"
-        },
-        {
-          "name": "Ålands Radio",
-          "genre": "music",
-          "id": "rb-942a812b-1fa2-4112-8a78-65e74bf67006",
-          "stationUUID": "942a812b-1fa2-4112-8a78-65e74bf67006",
-          "streamUrl": "https://stream.alandsradio.ax/stream.ogg",
-          "country": "Finland",
-          "countryCode": "FI",
-          "language": "fi"
-        },
-        {
-          "name": "Basso",
-          "genre": "rap",
-          "id": "rb-2c794d05-0cc1-4dfa-be31-52c0ab2cc19d",
-          "stationUUID": "2c794d05-0cc1-4dfa-be31-52c0ab2cc19d",
-          "streamUrl": "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac",
-          "bitrateKbps": 64,
-          "country": "Finland",
-          "countryCode": "FI",
-          "language": "fi"
-        },
-        {
-          "name": "Doubleclap Radio",
-          "genre": "dance electronic house trance",
-          "id": "rb-fed9a975-d67c-44d1-8591-f44208c196e3",
-          "stationUUID": "fed9a975-d67c-44d1-8591-f44208c196e3",
-          "streamUrl": "https://s3.radio.co/scfd7273b2/listen",
-          "bitrateKbps": 192,
-          "country": "Finland",
-          "countryCode": "FI",
-          "language": "fi"
-        },
-        {
-          "name": "Finest Fm",
-          "genre": "hits",
-          "id": "rb-962c3bf0-0601-11e8-ae97-52543be04c81",
-          "stationUUID": "962c3bf0-0601-11e8-ae97-52543be04c81",
-          "streamUrl": "http://212.47.220.188:8000/listen.mp3",
-          "bitrateKbps": 192,
-          "country": "Finland",
-          "countryCode": "FI",
-          "language": "fi"
-        },
-        {
-          "name": "Groove FM",
-          "genre": "blues funk jazz soul",
-          "id": "rb-98f551af-b40b-4035-a9cb-a531320a45d9",
-          "stationUUID": "98f551af-b40b-4035-a9cb-a531320a45d9",
-          "streamUrl": "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-          "bitrateKbps": 262,
-          "country": "Finland",
-          "countryCode": "FI",
-          "language": "fi"
-        },
-        {
-          "name": "Iskelmä",
-          "genre": "iskelmä",
-          "id": "rb-451e4f89-5318-4995-b3ab-b10610874f6b",
-          "stationUUID": "451e4f89-5318-4995-b3ab-b10610874f6b",
-          "streamUrl": "https://stream.bauermedia.fi/iskelma/iskelma_128.mp3",
-          "bitrateKbps": 128,
-          "country": "Finland",
-          "countryCode": "FI",
-          "language": "fi"
-        },
-        {
-          "name": "Yle Radio 1",
-          "genre": "news talk music",
-          "id": "rb-yle-r1-finland",
-          "stationUUID": "yle-r1-finland",
-          "streamUrl": "https://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio",
-          "bitrateKbps": 128,
-          "country": "Finland",
-          "countryCode": "FI",
-          "language": "fi"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Finland",
-          "countryCode": "FI",
-          "genre": "news talk",
-          "id": "fi-yle-radio-1",
-          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
-          "name": "YLE Radio 1",
-          "streamUrl": "https://icecast.live.yle.fi/radio/YleRadio1/icecast.audio",
-          "language": "fi"
-        }
-      ]
-    },
-    {
       "country": "France",
       "countryCode": "FR",
       "stations": [
         {
-          "bitrateKbps": 64,
+          "bitrateKbps": 128,
           "country": "France",
           "countryCode": "FR",
-          "genre": "africa",
-          "id": "fr-rfi-afrique",
+          "genre": "80s",
+          "id": "fr-100-radio-80",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RFI Afrique",
-          "streamUrl": "http://live02.rfi.fr/rfiafrique-64.mp3",
+          "name": "100% Radio 80",
+          "streamUrl": "http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3",
           "language": "fr"
         },
         {
           "bitrateKbps": 128,
           "country": "France",
           "countryCode": "FR",
-          "genre": "france",
-          "id": "fr-rmc-fr",
+          "genre": "dancefloor",
+          "id": "fr-eurodance-90-radio",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RMC FR",
-          "streamUrl": "https://audio.bfmtv.com/rmcradio_128.mp3",
+          "name": "EuroDance 90 radio",
+          "streamUrl": "https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323",
           "language": "fr"
         },
         {
           "bitrateKbps": 128,
           "country": "France",
           "countryCode": "FR",
-          "genre": "blues",
-          "id": "fr-jazz-radio-blues",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Jazz Radio Blues",
-          "streamUrl": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+          "genre": "news talk",
+          "id": "fr-europe-1",
+          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
+          "name": "Europe 1",
+          "streamUrl": "https://europe1.lmn.fm/europe1.mp3",
           "language": "fr"
         },
         {
           "bitrateKbps": 192,
           "country": "France",
           "countryCode": "FR",
-          "genre": "various",
-          "id": "fr-france-inter",
+          "genre": "aac",
+          "id": "fr-fip",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "France Inter",
-          "streamUrl": "http://direct.franceinter.fr/live/franceinter-hifi.aac",
-          "language": "fr"
-        },
-        {
-          "bitrateKbps": 64,
-          "country": "France",
-          "countryCode": "FR",
-          "genre": "news",
-          "id": "fr-rfi-monde",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RFI Monde",
-          "streamUrl": "http://live02.rfi.fr/rfimonde-64.mp3",
+          "name": "FIP",
+          "streamUrl": "http://icecast.radiofrance.fr/fip-hifi.aac",
           "language": "fr"
         },
         {
@@ -3991,32 +5003,21 @@
           "country": "France",
           "countryCode": "FR",
           "genre": "various",
-          "id": "fr-rtl",
+          "id": "fr-france-info",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RTL",
-          "streamUrl": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+          "name": "France Info",
+          "streamUrl": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
           "language": "fr"
         },
         {
-          "bitrateKbps": 96,
+          "bitrateKbps": 192,
           "country": "France",
           "countryCode": "FR",
-          "genre": "france médias monde",
-          "id": "fr-rfi-afrique-1",
+          "genre": "various",
+          "id": "fr-france-inter",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RFI-Afrique",
-          "streamUrl": "http://live02.rfi.fr/rfiafrique-96k.mp3",
-          "language": "fr"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "France",
-          "countryCode": "FR",
-          "genre": "rap",
-          "id": "fr-skyrock",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Skyrock",
-          "streamUrl": "http://icecast.skyrock.net/s/natio_mp3_128k",
+          "name": "France Inter",
+          "streamUrl": "http://direct.franceinter.fr/live/franceinter-hifi.aac",
           "language": "fr"
         },
         {
@@ -4031,58 +5032,14 @@
           "language": "fr"
         },
         {
-          "bitrateKbps": 192,
-          "country": "France",
-          "countryCode": "FR",
-          "genre": "aac",
-          "id": "fr-fip",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "FIP",
-          "streamUrl": "http://icecast.radiofrance.fr/fip-hifi.aac",
-          "language": "fr"
-        },
-        {
           "bitrateKbps": 128,
           "country": "France",
           "countryCode": "FR",
-          "genre": "dancefloor",
-          "id": "fr-eurodance-90-radio",
+          "genre": "blues",
+          "id": "fr-jazz-radio-blues",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "EuroDance 90 radio",
-          "streamUrl": "https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323",
-          "language": "fr"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "France",
-          "countryCode": "FR",
-          "genre": "pop",
-          "id": "fr-rtl2",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RTL2",
-          "streamUrl": "http://streaming.radio.rtl2.fr/rtl2-1-44-128",
-          "language": "fr"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "France",
-          "countryCode": "FR",
-          "genre": "80s",
-          "id": "fr-100-radio-80",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "100% Radio 80",
-          "streamUrl": "http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3",
-          "language": "fr"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "France",
-          "countryCode": "FR",
-          "genre": "electronic",
-          "id": "fr-radio-meuh",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio Meuh",
-          "streamUrl": "http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3",
+          "name": "Jazz Radio Blues",
+          "streamUrl": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
           "language": "fr"
         },
         {
@@ -4100,6 +5057,17 @@
           "bitrateKbps": 128,
           "country": "France",
           "countryCode": "FR",
+          "genre": "electronic",
+          "id": "fr-radio-meuh",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radio Meuh",
+          "streamUrl": "http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3",
+          "language": "fr"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "France",
+          "countryCode": "FR",
           "genre": "alternative",
           "id": "fr-radio-nova",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
@@ -4108,242 +5076,88 @@
           "language": "fr"
         },
         {
-          "bitrateKbps": 128,
+          "bitrateKbps": 64,
           "country": "France",
           "countryCode": "FR",
-          "genre": "news talk",
-          "id": "fr-france-info",
-          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
-          "name": "France Info",
-          "streamUrl": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+          "genre": "africa",
+          "id": "fr-rfi-afrique",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "RFI Afrique",
+          "streamUrl": "http://live02.rfi.fr/rfiafrique-64.mp3",
+          "language": "fr"
+        },
+        {
+          "bitrateKbps": 96,
+          "country": "France",
+          "countryCode": "FR",
+          "genre": "france médias monde",
+          "id": "fr-rfi-afrique-1",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "RFI-Afrique",
+          "streamUrl": "http://live02.rfi.fr/rfiafrique-96k.mp3",
+          "language": "fr"
+        },
+        {
+          "bitrateKbps": 64,
+          "country": "France",
+          "countryCode": "FR",
+          "genre": "news",
+          "id": "fr-rfi-monde",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "RFI Monde",
+          "streamUrl": "http://live02.rfi.fr/rfimonde-64.mp3",
           "language": "fr"
         },
         {
           "bitrateKbps": 128,
           "country": "France",
           "countryCode": "FR",
-          "genre": "news talk",
-          "id": "fr-europe-1",
-          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
-          "name": "Europe 1",
-          "streamUrl": "https://europe1.lmn.fm/europe1.mp3",
+          "genre": "france",
+          "id": "fr-rmc-fr",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "RMC FR",
+          "streamUrl": "https://audio.bfmtv.com/rmcradio_128.mp3",
+          "language": "fr"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "France",
+          "countryCode": "FR",
+          "genre": "various",
+          "id": "fr-rtl",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "RTL",
+          "streamUrl": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+          "language": "fr"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "France",
+          "countryCode": "FR",
+          "genre": "pop",
+          "id": "fr-rtl2",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "RTL2",
+          "streamUrl": "http://streaming.radio.rtl2.fr/rtl2-1-44-128",
+          "language": "fr"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "France",
+          "countryCode": "FR",
+          "genre": "rap",
+          "id": "fr-skyrock",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Skyrock",
+          "streamUrl": "http://icecast.skyrock.net/s/natio_mp3_128k",
           "language": "fr"
         }
       ]
     },
     {
-      "country": "Ireland",
+      "country": "United Kingdom",
       "countryCode": "GB",
       "stations": [
-        {
-          "bitrateKbps": 56,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "news",
-          "id": "gb-bbc-world-service",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "BBC World Service",
-          "streamUrl": "https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=96000.norewind.m3u8",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "classical",
-          "id": "gb-classic-fm-uk",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Classic FM UK",
-          "streamUrl": "http://ice-the.musicradio.com/ClassicFMMP3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 48,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "political talk",
-          "id": "gb-lbc-radio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "LBC Radio",
-          "streamUrl": "http://media-sov.musicradio.com/LBC973MP3Low",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "country",
-          "id": "gb-radio-caroline",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio Caroline",
-          "streamUrl": "http://78.129.202.200:8040/;",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 64,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "speech",
-          "id": "gb-talksport",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "talkSPORT",
-          "streamUrl": "http://radio.talksport.com/stream?aisGetOriginalStream=true",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "pop",
-          "id": "gb-capital-fm-london",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Capital FM London",
-          "streamUrl": "http://media-ice.musicradio.com/CapitalMP3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "commercial",
-          "id": "gb-heart-london-106-2-mp3",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Heart London 106.2 [MP3]",
-          "streamUrl": "http://ice-sov.musicradio.com/HeartLondonMP3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "80s",
-          "id": "gb-heart-80s",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Heart 80s",
-          "streamUrl": "https://media-ssl.musicradio.com/Heart80sMP3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 48,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "news talk",
-          "id": "gb-lbc-uk",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "LBC UK",
-          "streamUrl": "http://media-ice.musicradio.com/LBCUK",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 48,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "easy listening",
-          "id": "gb-smooth-radio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Smooth Radio",
-          "streamUrl": "http://media-the.musicradio.com/SmoothEastMids",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "alternative",
-          "id": "gb-tmm-1",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "TMM 1",
-          "streamUrl": "https://listen-msmn.sharp-stream.com/nme1.mp3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "information",
-          "id": "gb-virgin-radio-uk",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Virgin Radio UK",
-          "streamUrl": "http://radio.virginradio.co.uk/stream",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 48,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "news",
-          "id": "gb-lbc-london-national-stream",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "LBC London (National stream)",
-          "streamUrl": "http://media-ice.musicradio.com/LBCUKMP3Low",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "70s",
-          "id": "gb-heart-70s",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Heart 70s",
-          "streamUrl": "https://media-ssl.musicradio.com/Heart70sMP3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 63,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "talk",
-          "id": "gb-talkradio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "talkRADIO",
-          "streamUrl": "http://radio.talkradio.co.uk/stream",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "classic hits",
-          "id": "gb-gold",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Gold",
-          "streamUrl": "https://media-ssl.musicradio.com/GoldMP3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "disco",
-          "id": "gb-retro-soul-radio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Retro Soul Radio",
-          "streamUrl": "http://46.28.49.164:7504/stream",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "classic fm",
-          "id": "gb-classic-fm",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Classic FM",
-          "streamUrl": "http://media-ice.musicradio.com/ClassicFMMP3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "GB",
-          "genre": "chillout",
-          "id": "gb-smooth-chill",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Smooth Chill",
-          "streamUrl": "https://media-ssl.musicradio.com/ChillMP3",
-          "language": "en"
-        },
         {
           "bitrateKbps": 96,
           "country": "United Kingdom",
@@ -4367,6 +5181,193 @@
           "language": "en"
         },
         {
+          "bitrateKbps": 56,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "news",
+          "id": "gb-bbc-world-service",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "BBC World Service",
+          "streamUrl": "https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=96000.norewind.m3u8",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "pop",
+          "id": "gb-capital-fm-london",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Capital FM London",
+          "streamUrl": "http://media-ice.musicradio.com/CapitalMP3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "classic fm",
+          "id": "gb-classic-fm",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Classic FM",
+          "streamUrl": "http://media-ice.musicradio.com/ClassicFMMP3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "classical",
+          "id": "gb-classic-fm-uk",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Classic FM UK",
+          "streamUrl": "http://ice-the.musicradio.com/ClassicFMMP3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "classic hits",
+          "id": "gb-gold",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Gold",
+          "streamUrl": "https://media-ssl.musicradio.com/GoldMP3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "70s",
+          "id": "gb-heart-70s",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Heart 70s",
+          "streamUrl": "https://media-ssl.musicradio.com/Heart70sMP3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "80s",
+          "id": "gb-heart-80s",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Heart 80s",
+          "streamUrl": "https://media-ssl.musicradio.com/Heart80sMP3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "commercial",
+          "id": "gb-heart-london-106-2-mp3",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Heart London 106.2 [MP3]",
+          "streamUrl": "http://ice-sov.musicradio.com/HeartLondonMP3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 48,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "news",
+          "id": "gb-lbc-london-national-stream",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "LBC London (National stream)",
+          "streamUrl": "http://media-ice.musicradio.com/LBCUKMP3Low",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 48,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "political talk",
+          "id": "gb-lbc-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "LBC Radio",
+          "streamUrl": "http://media-sov.musicradio.com/LBC973MP3Low",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 48,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "news talk",
+          "id": "gb-lbc-uk",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "LBC UK",
+          "streamUrl": "http://media-ice.musicradio.com/LBCUK",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "country",
+          "id": "gb-radio-caroline",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radio Caroline",
+          "streamUrl": "http://78.129.202.200:8040/;",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "disco",
+          "id": "gb-retro-soul-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Retro Soul Radio",
+          "streamUrl": "http://46.28.49.164:7504/stream",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "chillout",
+          "id": "gb-smooth-chill",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Smooth Chill",
+          "streamUrl": "https://media-ssl.musicradio.com/ChillMP3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 48,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "easy listening",
+          "id": "gb-smooth-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Smooth Radio",
+          "streamUrl": "http://media-the.musicradio.com/SmoothEastMids",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 63,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "talk",
+          "id": "gb-talkradio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "talkRADIO",
+          "streamUrl": "http://radio.talkradio.co.uk/stream",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 64,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "speech",
+          "id": "gb-talksport",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "talkSPORT",
+          "streamUrl": "http://radio.talksport.com/stream?aisGetOriginalStream=true",
+          "language": "en"
+        },
+        {
           "bitrateKbps": 128,
           "country": "United Kingdom",
           "countryCode": "GB",
@@ -4375,6 +5376,28 @@
           "lastValidatedAt": "2026-04-20T12:00:00.000Z",
           "name": "Times Radio",
           "streamUrl": "https://timesradio.wireless.radio/stream",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "alternative",
+          "id": "gb-tmm-1",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "TMM 1",
+          "streamUrl": "https://listen-msmn.sharp-stream.com/nme1.mp3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "information",
+          "id": "gb-virgin-radio-uk",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Virgin Radio UK",
+          "streamUrl": "http://radio.virginradio.co.uk/stream",
           "language": "en"
         }
       ]
@@ -5280,186 +6303,6 @@
           "name": "RRI Pro 3 KBRN",
           "streamUrl": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
           "language": "id"
-        }
-      ]
-    },
-    {
-      "country": "Ireland",
-      "countryCode": "IE",
-      "stations": [
-        {
-          "name": "RTÉ Radio 1",
-          "genre": "radio",
-          "id": "ie-rte-radio-1",
-          "streamUrl": "http://icecast.rte.ie/radio1",
-          "bitrateKbps": 160,
-          "country": "Ireland",
-          "countryCode": "IE",
-          "language": "en"
-        },
-        {
-          "name": "Newstalk",
-          "genre": "radio",
-          "id": "ie-newstalk",
-          "streamUrl": "https://edge.audioxi.com/NT",
-          "bitrateKbps": 25,
-          "country": "Ireland",
-          "countryCode": "IE",
-          "language": "en"
-        },
-        {
-          "name": "RTÉ Lyric FM",
-          "genre": "radio",
-          "id": "ie-rte-lyric-fm",
-          "streamUrl": "http://icecast.rte.ie/lyric",
-          "bitrateKbps": 160,
-          "country": "Ireland",
-          "countryCode": "IE",
-          "language": "en"
-        },
-        {
-          "name": "Irish Country Music Radio",
-          "genre": "radio",
-          "id": "ie-irish-country-music-radio",
-          "streamUrl": "http://46.28.49.164:7502/",
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "IE",
-          "language": "en"
-        },
-        {
-          "name": "Irish Pub Radio",
-          "genre": "radio",
-          "id": "ie-irish-pub-radio",
-          "streamUrl": "http://solid24.streamupsolutions.com:8026/stream",
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "IE",
-          "language": "en"
-        },
-        {
-          "name": "Deep House Radio",
-          "genre": "radio",
-          "id": "ie-deep-house-radio",
-          "streamUrl": "https://streaming.shoutcast.com/dhr",
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "IE",
-          "language": "en"
-        },
-        {
-          "name": "Classic Hits 4FM",
-          "genre": "radio",
-          "id": "ie-classic-hits-4fm",
-          "streamUrl": "http://stream.audioxi.com/CLASSIC",
-          "bitrateKbps": 128,
-          "country": "Ireland",
-          "countryCode": "IE",
-          "language": "en"
-        },
-        {
-          "name": "Vinyl Stacks",
-          "genre": "radio",
-          "id": "ie-vinyl-stacks",
-          "streamUrl": "https://vinylstacks.uncool.club/vinyl-stacks.mp3",
-          "country": "Ireland",
-          "countryCode": "IE",
-          "language": "en"
-        },
-        {
-          "name": "Deephouse Radio (Everestcast)",
-          "genre": "radio",
-          "id": "ie-deephouse-radio-everestcast",
-          "streamUrl": "http://ec1.everestcast.host:1490/stream",
-          "bitrateKbps": 320,
-          "country": "Ireland",
-          "countryCode": "IE",
-          "language": "en"
-        }
-      ]
-    },
-    {
-      "country": "Israel",
-      "countryCode": "IL",
-      "stations": [
-        {
-          "name": "Kan Makan",
-          "genre": "radio",
-          "id": "il-kan-makan",
-          "streamUrl": "http://kanliveicy.media.kan.org.il/icy/makan_mp3",
-          "bitrateKbps": 128,
-          "country": "Israel",
-          "countryCode": "IL",
-          "language": "he"
-        },
-        {
-          "name": "Kan Bet",
-          "genre": "radio",
-          "id": "il-kan-bet",
-          "streamUrl": "https://28563.live.streamtheworld.com/KAN_BET.mp3",
-          "bitrateKbps": 128,
-          "country": "Israel",
-          "countryCode": "IL",
-          "language": "he"
-        },
-        {
-          "name": "Glglz",
-          "genre": "radio",
-          "id": "il-glglz",
-          "streamUrl": "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE",
-          "bitrateKbps": 128,
-          "country": "Israel",
-          "countryCode": "IL",
-          "language": "he"
-        },
-        {
-          "name": "Radio 103FM",
-          "genre": "radio",
-          "id": "il-radio-103fm",
-          "streamUrl": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
-          "country": "Israel",
-          "countryCode": "IL",
-          "language": "he"
-        },
-        {
-          "name": "Galei Zahal",
-          "genre": "radio",
-          "id": "il-galei-zahal",
-          "streamUrl": "http://glzwizzlv.bynetcdn.com/glz_mp3",
-          "bitrateKbps": 128,
-          "country": "Israel",
-          "countryCode": "IL",
-          "language": "he"
-        },
-        {
-          "name": "Joint Radio Blues Rock",
-          "genre": "radio",
-          "id": "il-joint-radio-blues-rock",
-          "streamUrl": "https://jointil.com/stream-blues",
-          "bitrateKbps": 320,
-          "country": "Israel",
-          "countryCode": "IL",
-          "language": "he"
-        },
-        {
-          "name": "Kan 88",
-          "genre": "radio",
-          "id": "il-kan-88",
-          "streamUrl": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3",
-          "bitrateKbps": 192,
-          "country": "Israel",
-          "countryCode": "IL",
-          "language": "he"
-        },
-        {
-          "name": "Kan Gimel",
-          "genre": "radio",
-          "id": "il-kan-gimel",
-          "streamUrl": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
-          "bitrateKbps": 192,
-          "country": "Israel",
-          "countryCode": "IL",
-          "language": "he"
         }
       ]
     },
@@ -7943,14 +8786,80 @@
       "countryCode": "NL",
       "stations": [
         {
-          "bitrateKbps": 1411,
+          "bitrateKbps": 192,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "classic rock",
+          "id": "nl-arrow-classic-rock",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Arrow Classic Rock",
+          "streamUrl": "http://stream.gal.io/arrow",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "news talk",
+          "id": "nl-bnr-nieuwsradio",
+          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
+          "name": "BNR Nieuwsradio",
+          "streamUrl": "https://stream.bnr.nl/bnr_mp3_128_03",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "dance",
+          "id": "nl-c-dance-retro",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "C-Dance RETRO",
+          "streamUrl": "http://s45.myradiostream.com:18304/",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "classical",
+          "id": "nl-concertzender-baroque",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Concertzender Baroque",
+          "streamUrl": "http://streams.greenhost.nl:8080/barok",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 256,
           "country": "Netherlands",
           "countryCode": "NL",
           "genre": "90s",
-          "id": "nl-intense-radio-we-love-dance-hq-flac",
+          "id": "nl-fantasy-italo-dance-90s-radio",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Intense Radio - We love Dance #HQ# FLAC",
-          "streamUrl": "http://secure.live-streams.nl/flac.ogg",
+          "name": "Fantasy Italo Dance 90s radio",
+          "streamUrl": "https://mscp2.live-streams.nl:8152/italodance",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 320,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "320kbps",
+          "id": "nl-hi-on-line-jazz-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Hi On Line Jazz Radio",
+          "streamUrl": "http://mediaserv38.live-streams.nl:8006/",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 320,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "320kbps",
+          "id": "nl-hi-on-line-lounge-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Hi On Line Lounge Radio",
+          "streamUrl": "http://mediaserv33.live-streams.nl:8036/live",
           "language": "nl"
         },
         {
@@ -7962,6 +8871,28 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Intense Radio - We love Dance 256k",
           "streamUrl": "http://intenseradio.live-streams.nl:8000/main",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 1411,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "90s",
+          "id": "nl-intense-radio-we-love-dance-hq-flac",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Intense Radio - We love Dance #HQ# FLAC",
+          "streamUrl": "http://secure.live-streams.nl/flac.ogg",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "pop rock",
+          "id": "nl-npo-3fm-serious-radio",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "NPO 3FM Serious Radio",
+          "streamUrl": "http://icecast.omroep.nl/3fm-bb-mp3",
           "language": "nl"
         },
         {
@@ -7990,132 +8921,11 @@
           "bitrateKbps": 192,
           "country": "Netherlands",
           "countryCode": "NL",
-          "genre": "classic rock",
-          "id": "nl-arrow-classic-rock",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Arrow Classic Rock",
-          "streamUrl": "http://stream.gal.io/arrow",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "00's",
-          "id": "nl-radio-10",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio 10",
-          "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 320,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "320kbps",
-          "id": "nl-hi-on-line-lounge-radio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Hi On Line Lounge Radio",
-          "streamUrl": "http://mediaserv33.live-streams.nl:8036/live",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "60's",
-          "id": "nl-npo-radio-5",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "NPO Radio 5",
-          "streamUrl": "https://icecast.omroep.nl/radio5-bb-mp3",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Netherlands",
-          "countryCode": "NL",
           "genre": "jazz",
           "id": "nl-npo-radio-2-soul-jazz",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "NPO Radio 2 Soul & Jazz",
           "streamUrl": "http://icecast.omroep.nl/radio6-bb-mp3",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "classical",
-          "id": "nl-concertzender-baroque",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Concertzender Baroque",
-          "streamUrl": "http://streams.greenhost.nl:8080/barok",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "dance",
-          "id": "nl-slam",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "SLAM!",
-          "streamUrl": "http://stream.slam.nl/slam",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "80s",
-          "id": "nl-sky-radio-80-s-hits",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Sky Radio 80's Hits",
-          "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 96,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "various",
-          "id": "nl-qmusic",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Qmusic",
-          "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 256,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "90s",
-          "id": "nl-fantasy-italo-dance-90s-radio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Fantasy Italo Dance 90s radio",
-          "streamUrl": "https://mscp2.live-streams.nl:8152/italodance",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "dance",
-          "id": "nl-c-dance-retro",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "C-Dance RETRO",
-          "streamUrl": "http://s45.myradiostream.com:18304/",
-          "language": "nl"
-        },
-        {
-          "bitrateKbps": 320,
-          "country": "Netherlands",
-          "countryCode": "NL",
-          "genre": "320kbps",
-          "id": "nl-hi-on-line-jazz-radio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Hi On Line Jazz Radio",
-          "streamUrl": "http://mediaserv38.live-streams.nl:8006/",
           "language": "nl"
         },
         {
@@ -8133,6 +8943,39 @@
           "bitrateKbps": 192,
           "country": "Netherlands",
           "countryCode": "NL",
+          "genre": "60's",
+          "id": "nl-npo-radio-5",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "NPO Radio 5",
+          "streamUrl": "https://icecast.omroep.nl/radio5-bb-mp3",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 96,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "various",
+          "id": "nl-qmusic",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Qmusic",
+          "streamUrl": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Netherlands",
+          "countryCode": "NL",
+          "genre": "00's",
+          "id": "nl-radio-10",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radio 10",
+          "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+          "language": "nl"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Netherlands",
+          "countryCode": "NL",
           "genre": "classics",
           "id": "nl-radio-continu",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
@@ -8141,622 +8984,26 @@
           "language": "nl"
         },
         {
-          "bitrateKbps": 192,
+          "bitrateKbps": 128,
           "country": "Netherlands",
           "countryCode": "NL",
-          "genre": "pop rock",
-          "id": "nl-npo-3fm-serious-radio",
+          "genre": "80s",
+          "id": "nl-sky-radio-80-s-hits",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "NPO 3FM Serious Radio",
-          "streamUrl": "http://icecast.omroep.nl/3fm-bb-mp3",
+          "name": "Sky Radio 80's Hits",
+          "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3",
           "language": "nl"
         },
         {
           "bitrateKbps": 128,
           "country": "Netherlands",
           "countryCode": "NL",
-          "genre": "news talk",
-          "id": "nl-bnr-nieuwsradio",
-          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
-          "name": "BNR Nieuwsradio",
-          "streamUrl": "https://stream.bnr.nl/bnr_mp3_128_03",
+          "genre": "dance",
+          "id": "nl-slam",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "SLAM!",
+          "streamUrl": "http://stream.slam.nl/slam",
           "language": "nl"
-        }
-      ]
-    },
-    {
-      "country": "Norway",
-      "countryCode": "NO",
-      "stations": [
-        {
-          "name": "P4 Norge",
-          "genre": "radio",
-          "id": "no-p4-norge",
-          "stationUUID": "no-p4-norge",
-          "streamUrl": "https://p4.p4groupaudio.com/P04_AH",
-          "bitrateKbps": 192,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P3",
-          "genre": "radio",
-          "id": "no-nrk-p3",
-          "stationUUID": "no-nrk-p3",
-          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
-          "bitrateKbps": 192,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK Jazz",
-          "genre": "radio",
-          "id": "no-nrk-jazz",
-          "stationUUID": "no-nrk-jazz",
-          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
-          "bitrateKbps": 192,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "Radio Norge",
-          "genre": "radio",
-          "id": "no-radio-norge",
-          "stationUUID": "no-radio-norge",
-          "streamUrl": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3?direct=true",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Stor-Oslo",
-          "genre": "radio",
-          "id": "no-nrk-p1-stor-oslo",
-          "stationUUID": "no-nrk-p1-stor-oslo",
-          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h",
-          "bitrateKbps": 192,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P2",
-          "genre": "radio",
-          "id": "no-nrk-p2",
-          "stationUUID": "no-nrk-p2",
-          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
-          "bitrateKbps": 159,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRJ Norge",
-          "genre": "radio",
-          "id": "no-nrj-norge",
-          "stationUUID": "no-nrj-norge",
-          "streamUrl": "https://live-bauerno.sharp-stream.com/kiss_no_mp3?direct=true",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK MP3",
-          "genre": "radio",
-          "id": "no-nrk-mp3",
-          "stationUUID": "no-nrk-mp3",
-          "streamUrl": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
-          "bitrateKbps": 192,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "P10 Country",
-          "genre": "radio",
-          "id": "no-p10-country",
-          "stationUUID": "no-p10-country",
-          "streamUrl": "https://p10.p4groupaudio.com/P10_AH",
-          "bitrateKbps": 191,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK Nyheter",
-          "genre": "news",
-          "id": "no-nrk-nyheter",
-          "stationUUID": "no-nrk-nyheter",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/nyheter",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1",
-          "genre": "news talk",
-          "id": "no-nrk-p1",
-          "stationUUID": "no-nrk-p1",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1+",
-          "genre": "news talk",
-          "id": "no-nrk-p1-plus",
-          "stationUUID": "no-nrk-p1-plus",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1pluss",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P3 Musikk",
-          "genre": "music",
-          "id": "no-nrk-p3-musikk",
-          "stationUUID": "no-nrk-p3-musikk",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p3musikk",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK Radio Super",
-          "genre": "radio",
-          "id": "no-nrk-radio-super",
-          "stationUUID": "no-nrk-radio-super",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/radio_super",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK Klassisk",
-          "genre": "classical",
-          "id": "no-nrk-klassisk",
-          "stationUUID": "no-nrk-klassisk",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/klassisk",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK Sámi radio",
-          "genre": "talk",
-          "id": "no-nrk-sami-radio",
-          "stationUUID": "no-nrk-sami-radio",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/sapmi",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "se"
-        },
-        {
-          "name": "NRK Folkemusikk",
-          "genre": "folk",
-          "id": "no-nrk-folkemusikk",
-          "stationUUID": "no-nrk-folkemusikk",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK Sport",
-          "genre": "sport",
-          "id": "no-nrk-sport",
-          "stationUUID": "no-nrk-sport",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/sport",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Buskerud",
-          "genre": "news talk",
-          "id": "no-nrk-p1-buskerud",
-          "stationUUID": "no-nrk-p1-buskerud",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk13",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Finnmark",
-          "genre": "news talk",
-          "id": "no-nrk-p1-finnmark",
-          "stationUUID": "no-nrk-p1-finnmark",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk2",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Hordaland",
-          "genre": "news talk",
-          "id": "no-nrk-p1-hordaland",
-          "stationUUID": "no-nrk-p1-hordaland",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk8",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Innlandet",
-          "genre": "news talk",
-          "id": "no-nrk-p1-innlandet",
-          "stationUUID": "no-nrk-p1-innlandet",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk14",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Møre og Romsdal",
-          "genre": "news talk",
-          "id": "no-nrk-p1-more-og-romsdal",
-          "stationUUID": "no-nrk-p1-more-og-romsdal",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk6",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Nordland",
-          "genre": "news talk",
-          "id": "no-nrk-p1-nordland",
-          "stationUUID": "no-nrk-p1-nordland",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Rogaland",
-          "genre": "news talk",
-          "id": "no-nrk-p1-rogaland",
-          "stationUUID": "no-nrk-p1-rogaland",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Sogn og Fjordane",
-          "genre": "news talk",
-          "id": "no-nrk-p1-sogn-og-fjordane",
-          "stationUUID": "no-nrk-p1-sogn-og-fjordane",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Sørlandet",
-          "genre": "news talk",
-          "id": "no-nrk-p1-sorlandet",
-          "stationUUID": "no-nrk-p1-sorlandet",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk10",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Telemark",
-          "genre": "news talk",
-          "id": "no-nrk-p1-telemark",
-          "stationUUID": "no-nrk-p1-telemark",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk11",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Troms",
-          "genre": "news talk",
-          "id": "no-nrk-p1-troms",
-          "stationUUID": "no-nrk-p1-troms",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk3",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Trøndelag",
-          "genre": "news talk",
-          "id": "no-nrk-p1-trondelag",
-          "stationUUID": "no-nrk-p1-trondelag",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk5",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Vestfold",
-          "genre": "news talk",
-          "id": "no-nrk-p1-vestfold",
-          "stationUUID": "no-nrk-p1-vestfold",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk12",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "NRK P1 Østfold",
-          "genre": "news talk",
-          "id": "no-nrk-p1-ostfold",
-          "stationUUID": "no-nrk-p1-ostfold",
-          "streamUrl": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk15",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "1FM Molde",
-          "genre": "music",
-          "id": "rb-5a673cf3-a64a-4685-a721-e335d5370779",
-          "stationUUID": "5a673cf3-a64a-4685-a721-e335d5370779",
-          "streamUrl": "https://s2.radio.co/s914ffa700/listen",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "5000 Bergen",
-          "genre": "country easy listening edm hits pop",
-          "id": "rb-2f147458-9d03-47e3-a3c5-50e1c62459f5",
-          "stationUUID": "2f147458-9d03-47e3-a3c5-50e1c62459f5",
-          "streamUrl": "https://bergen5000.radioca.st/stream",
-          "bitrateKbps": 320,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "Guovdageainnu Lagasradio",
-          "genre": "music",
-          "id": "rb-8f0acc25-024b-41d4-b472-5636ed798d68",
-          "stationUUID": "8f0acc25-024b-41d4-b472-5636ed798d68",
-          "streamUrl": "https://streaming.radio.co/s5b773f8d3/listen",
-          "bitrateKbps": 192,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "Hamar Radioen",
-          "genre": "news pop rock",
-          "id": "rb-7508f652-57d1-4b63-bd2b-84f4bdfbc632",
-          "stationUUID": "7508f652-57d1-4b63-bd2b-84f4bdfbc632",
-          "streamUrl": "https://lyd.radioene.no/hamar.mp3",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "Klem FM",
-          "genre": "music",
-          "id": "rb-6f4fe23b-25c3-4401-a01e-15bce5da1352",
-          "stationUUID": "6f4fe23b-25c3-4401-a01e-15bce5da1352",
-          "streamUrl": "https://p7.p4groupaudio.com/P07_MM",
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "Metal Express Radio",
-          "genre": "metal",
-          "id": "rb-ede7b712-b68a-11e8-aaf2-52543be04c81",
-          "stationUUID": "ede7b712-b68a-11e8-aaf2-52543be04c81",
-          "streamUrl": "http://s39.myradiostream.com:11590/;",
-          "bitrateKbps": 192,
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "name": "historyradio.org",
-          "genre": "educational history talk",
-          "id": "rb-0cb4f6de-8e44-11e8-aa66-52543be04c81",
-          "stationUUID": "0cb4f6de-8e44-11e8-aa66-52543be04c81",
-          "streamUrl": "https://stream.radiojar.com/6bmecgg3wd5tv",
-          "country": "Norway",
-          "countryCode": "NO",
-          "language": "no"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "genre": "local",
-          "id": "no-radio-alesund",
-          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
-          "name": "Radio Ålesund",
-          "streamUrl": "https://audio.radioaalesund.no/aalesund_mq",
-          "language": "no"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "genre": "local",
-          "id": "no-radio-atlantic",
-          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
-          "name": "Radio Atlantic",
-          "streamUrl": "https://audio.radioaalesund.no/atlantic_mq",
-          "language": "no"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "genre": "local",
-          "id": "no-radio-nordsjo",
-          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
-          "name": "Radio Nordsjø",
-          "streamUrl": "https://audio.radioaalesund.no/nordsjo_mq",
-          "language": "no"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "genre": "local",
-          "id": "no-radio-tonsberg",
-          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
-          "name": "Radio Tønsberg",
-          "streamUrl": "https://audio.radioaalesund.no/tonsberg_mq",
-          "language": "no"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "genre": "local",
-          "id": "no-scansat",
-          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
-          "name": "Scansat",
-          "streamUrl": "https://audio.radioaalesund.no/scansat_mq",
-          "language": "no"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Norway",
-          "countryCode": "NO",
-          "genre": "local",
-          "id": "no-clasico",
-          "lastValidatedAt": "2026-04-20T20:30:00.000Z",
-          "name": "Clásico",
-          "streamUrl": "https://audio.radioaalesund.no/clasico_mq",
-          "language": "no"
-        }
-      ]
-    },
-    {
-      "country": "New Zealand",
-      "countryCode": "NZ",
-      "stations": [
-        {
-          "name": "Magic FM",
-          "genre": "radio",
-          "id": "nz-magic-fm",
-          "streamUrl": "https://mediaworks.streamguys1.com/magic_net_icy",
-          "bitrateKbps": 130,
-          "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
-        },
-        {
-          "name": "The Sound",
-          "genre": "radio",
-          "id": "nz-the-sound",
-          "streamUrl": "https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8",
-          "bitrateKbps": 130,
-          "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
-        },
-        {
-          "name": "The Breeze 93.4",
-          "genre": "radio",
-          "id": "nz-the-breeze-934",
-          "streamUrl": "https://mediaworks.streamguys1.com/breeze-akl-high_icy",
-          "bitrateKbps": 130,
-          "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
-        },
-        {
-          "name": "The Hits",
-          "genre": "radio",
-          "id": "nz-the-hits",
-          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8",
-          "bitrateKbps": 64,
-          "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
-        },
-        {
-          "name": "Coast FM",
-          "genre": "radio",
-          "id": "nz-coast",
-          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8",
-          "bitrateKbps": 64,
-          "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
-        },
-        {
-          "name": "The Edge",
-          "genre": "radio",
-          "id": "nz-the-edge",
-          "streamUrl": "https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8",
-          "bitrateKbps": 130,
-          "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
-        },
-        {
-          "name": "Radio Chinese FM90.6",
-          "genre": "radio",
-          "id": "nz-radio-chinese-fm906",
-          "streamUrl": "https://s26.myradiostream.com:20274/listen.mp3",
-          "bitrateKbps": 128,
-          "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
-        },
-        {
-          "name": "ZM Wellington",
-          "genre": "radio",
-          "id": "nz-zm-wellington",
-          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8",
-          "bitrateKbps": 64,
-          "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
-        },
-        {
-          "name": "Mai FM",
-          "genre": "radio",
-          "id": "nz-mai-fm",
-          "streamUrl": "https://mediaworks.streamguys1.com/mai_net_icy",
-          "bitrateKbps": 129,
-          "country": "New Zealand",
-          "countryCode": "NZ",
-          "language": "en"
         }
       ]
     },
@@ -9209,11 +9456,99 @@
           "bitrateKbps": 128,
           "country": "Poland",
           "countryCode": "PL",
-          "genre": "fm",
-          "id": "pl-rmf-fm",
+          "genre": "metal",
+          "id": "pl-antyradio",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RMF FM",
-          "streamUrl": "http://195.150.20.242:8000/rmf_fm",
+          "name": "Antyradio",
+          "streamUrl": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 96,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "news talk",
+          "id": "pl-polskie-radio-1",
+          "lastValidatedAt": "2026-04-17T12:00:00.000Z",
+          "name": "Polskie Radio 1",
+          "streamUrl": "https://stream.polskieradio.pl/pr1/mp3",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "information",
+          "id": "pl-polskie-radio-24",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Polskie Radio 24",
+          "streamUrl": "http://stream3.polskieradio.pl:8080/;.mp3",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "alternative",
+          "id": "pl-polskie-radio-czw-rka-program-4-aac",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Polskie Radio - Czwórka (Program 4) (AAC+)",
+          "streamUrl": "http://stream3.polskieradio.pl:8956/;",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "polskieradio",
+          "id": "pl-polskie-radio-jedynka",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Polskie Radio Jedynka",
+          "streamUrl": "http://mp3.polskieradio.pl:8900/;.mp3",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "polskieradio",
+          "id": "pl-polskie-radio-program-1",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Polskie Radio Program 1",
+          "streamUrl": "http://mp3.polskieradio.pl:8900/",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "adult contemporary",
+          "id": "pl-radio-357",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radio 357",
+          "streamUrl": "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 48,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "misc",
+          "id": "pl-radio-rmf-maxxx",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radio RMF MAXXX",
+          "streamUrl": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "various",
+          "id": "pl-radio-wnet",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radio Wnet",
+          "streamUrl": "http://audio.radiownet.pl:8000/stream",
           "language": "pl"
         },
         {
@@ -9231,22 +9566,33 @@
           "bitrateKbps": 128,
           "country": "Poland",
           "countryCode": "PL",
-          "genre": "metal",
-          "id": "pl-antyradio",
+          "genre": "mixes",
+          "id": "pl-radioparty-pl-dj-mixes-party",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Antyradio",
-          "streamUrl": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+          "name": "Radioparty.pl Dj Mixes Party",
+          "streamUrl": "http://djmixes.radioparty.pl:8035/",
           "language": "pl"
         },
         {
-          "bitrateKbps": 192,
+          "bitrateKbps": 64,
           "country": "Poland",
           "countryCode": "PL",
-          "genre": "polskieradio",
-          "id": "pl-polskie-radio-jedynka",
+          "genre": "disco",
+          "id": "pl-rmf-80s-disco",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Polskie Radio Jedynka",
-          "streamUrl": "http://mp3.polskieradio.pl:8900/;.mp3",
+          "name": "RMF 80s Disco",
+          "streamUrl": "http://195.150.20.9/80SDISCO",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 64,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "90s",
+          "id": "pl-rmf-90s",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "RMF 90s",
+          "streamUrl": "http://31.192.216.7/90S",
           "language": "pl"
         },
         {
@@ -9264,50 +9610,6 @@
           "bitrateKbps": 64,
           "country": "Poland",
           "countryCode": "PL",
-          "genre": "polish pop music",
-          "id": "pl-rmf-polskie-przeboje",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RMF Polskie przeboje",
-          "streamUrl": "http://195.150.20.8/PPRZEBOJE",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Poland",
-          "countryCode": "PL",
-          "genre": "mixes",
-          "id": "pl-radioparty-pl-dj-mixes-party",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radioparty.pl Dj Mixes Party",
-          "streamUrl": "http://djmixes.radioparty.pl:8035/",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 48,
-          "country": "Poland",
-          "countryCode": "PL",
-          "genre": "misc",
-          "id": "pl-radio-rmf-maxxx",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio RMF MAXXX",
-          "streamUrl": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 64,
-          "country": "Poland",
-          "countryCode": "PL",
-          "genre": "90s",
-          "id": "pl-rmf-90s",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RMF 90s",
-          "streamUrl": "http://31.192.216.7/90S",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 64,
-          "country": "Poland",
-          "countryCode": "PL",
           "genre": "dance",
           "id": "pl-rmf-dance",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
@@ -9316,14 +9618,25 @@
           "language": "pl"
         },
         {
-          "bitrateKbps": 192,
+          "bitrateKbps": 128,
           "country": "Poland",
           "countryCode": "PL",
-          "genre": "various",
-          "id": "pl-trojka",
+          "genre": "fm",
+          "id": "pl-rmf-fm",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Trojka",
-          "streamUrl": "http://stream3.polskieradio.pl:8904/",
+          "name": "RMF FM",
+          "streamUrl": "http://195.150.20.242:8000/rmf_fm",
+          "language": "pl"
+        },
+        {
+          "bitrateKbps": 64,
+          "country": "Poland",
+          "countryCode": "PL",
+          "genre": "polish pop music",
+          "id": "pl-rmf-polskie-przeboje",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "RMF Polskie przeboje",
+          "streamUrl": "http://195.150.20.8/PPRZEBOJE",
           "language": "pl"
         },
         {
@@ -9341,66 +9654,11 @@
           "bitrateKbps": 192,
           "country": "Poland",
           "countryCode": "PL",
-          "genre": "polskieradio",
-          "id": "pl-polskie-radio-program-1",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Polskie Radio Program 1",
-          "streamUrl": "http://mp3.polskieradio.pl:8900/",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "Poland",
-          "countryCode": "PL",
-          "genre": "alternative",
-          "id": "pl-polskie-radio-czw-rka-program-4-aac",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Polskie Radio - Czwórka (Program 4) (AAC+)",
-          "streamUrl": "http://stream3.polskieradio.pl:8956/;",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Poland",
-          "countryCode": "PL",
-          "genre": "adult contemporary",
-          "id": "pl-radio-357",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio 357",
-          "streamUrl": "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 64,
-          "country": "Poland",
-          "countryCode": "PL",
-          "genre": "disco",
-          "id": "pl-rmf-80s-disco",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "RMF 80s Disco",
-          "streamUrl": "http://195.150.20.9/80SDISCO",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "Poland",
-          "countryCode": "PL",
           "genre": "various",
-          "id": "pl-radio-wnet",
+          "id": "pl-trojka",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio Wnet",
-          "streamUrl": "http://audio.radiownet.pl:8000/stream",
-          "language": "pl"
-        },
-        {
-          "bitrateKbps": 96,
-          "country": "Poland",
-          "countryCode": "PL",
-          "genre": "news talk",
-          "id": "pl-polskie-radio-1",
-          "lastValidatedAt": "2026-04-17T12:00:00.000Z",
-          "name": "Polskie Radio 1",
-          "streamUrl": "https://stream.polskieradio.pl/pr1/mp3",
+          "name": "Trojka",
+          "streamUrl": "http://stream3.polskieradio.pl:8904/",
           "language": "pl"
         }
       ]
@@ -10520,99 +10778,6 @@
       ]
     },
     {
-      "country": "Sweden",
-      "countryCode": "SE",
-      "stations": [
-        {
-          "name": "106,7 Rockklassiker",
-          "genre": "classic rock",
-          "id": "rb-9642ad8b-0601-11e8-ae97-52543be04c81",
-          "stationUUID": "9642ad8b-0601-11e8-ae97-52543be04c81",
-          "streamUrl": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3",
-          "bitrateKbps": 128,
-          "country": "Sweden",
-          "countryCode": "SE",
-          "language": "sv"
-        },
-        {
-          "name": "Bandit Alternative",
-          "genre": "alternative",
-          "id": "rb-6d52fc82-42d2-4b29-aece-d84e1f1c641d",
-          "stationUUID": "6d52fc82-42d2-4b29-aece-d84e1f1c641d",
-          "streamUrl": "https://wr05-ice.stream.khz.se/wr05_mp3",
-          "bitrateKbps": 128,
-          "country": "Sweden",
-          "countryCode": "SE",
-          "language": "sv"
-        },
-        {
-          "name": "Bandit Ballads",
-          "genre": "ballads rock",
-          "id": "rb-12824d18-3891-402f-b7a9-b8d75bfe3b99",
-          "stationUUID": "12824d18-3891-402f-b7a9-b8d75bfe3b99",
-          "streamUrl": "https://wr21-ice.stream.khz.se/wr21_aac",
-          "bitrateKbps": 96,
-          "country": "Sweden",
-          "countryCode": "SE",
-          "language": "sv"
-        },
-        {
-          "name": "Bandit Classic Rock",
-          "genre": "classic rock",
-          "id": "rb-40dfa430-7988-4b02-ae1b-ce5fe8b5aad3",
-          "stationUUID": "40dfa430-7988-4b02-ae1b-ce5fe8b5aad3",
-          "streamUrl": "https://wr11-ice.stream.khz.se/wr11_mp3",
-          "bitrateKbps": 128,
-          "country": "Sweden",
-          "countryCode": "SE",
-          "language": "sv"
-        },
-        {
-          "name": "Bandit ÍRock",
-          "genre": "rock",
-          "id": "rb-22567e75-4c10-4dde-9c51-5940b128f6cb",
-          "stationUUID": "22567e75-4c10-4dde-9c51-5940b128f6cb",
-          "streamUrl": "https://fm02-ice.stream.khz.se/fm02_mp3",
-          "bitrateKbps": 128,
-          "country": "Sweden",
-          "countryCode": "SE",
-          "language": "sv"
-        },
-        {
-          "name": "Bandit Metal",
-          "genre": "death metal hard rock metal",
-          "id": "rb-78563d75-79f2-4c67-a80d-291891e2fb88",
-          "stationUUID": "78563d75-79f2-4c67-a80d-291891e2fb88",
-          "streamUrl": "https://wr03-ice.stream.khz.se/wr03_mp3",
-          "bitrateKbps": 128,
-          "country": "Sweden",
-          "countryCode": "SE",
-          "language": "sv"
-        },
-        {
-          "name": "Borås Närradio",
-          "genre": "community",
-          "id": "rb-964338ec-0601-11e8-ae97-52543be04c81",
-          "stationUUID": "964338ec-0601-11e8-ae97-52543be04c81",
-          "streamUrl": "http://lyssna.fnf.nu:8080/radioboras.mp3",
-          "bitrateKbps": 128,
-          "country": "Sweden",
-          "countryCode": "SE",
-          "language": "sv"
-        },
-        {
-          "id": "se-sr-p1",
-          "name": "Sveriges Radio P1",
-          "genre": "news talk",
-          "language": "sv",
-          "streamUrl": "https://live1.sr.se/p1-aac-128",
-          "bitrateKbps": 128,
-          "country": "Sweden",
-          "countryCode": "SE"
-        }
-      ]
-    },
-    {
       "country": "Singapore",
       "countryCode": "SG",
       "stations": [
@@ -11308,161 +11473,6 @@
       ]
     },
     {
-      "country": "Turkmenistan",
-      "countryCode": "TM",
-      "stations": [
-        {
-          "name": "Abdulbasit Abdulsamad",
-          "genre": "arabic",
-          "id": "rb-435f7756-ddcc-49fd-a692-321f22c0dd1d",
-          "stationUUID": "435f7756-ddcc-49fd-a692-321f22c0dd1d",
-          "streamUrl": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-          "bitrateKbps": 192,
-          "country": "Turkmenistan",
-          "countryCode": "TM",
-          "language": "tk"
-        },
-        {
-          "name": "Hayatmix",
-          "genre": "music",
-          "id": "rb-d5b40b49-b53b-43ce-b310-457182a6cf90",
-          "stationUUID": "d5b40b49-b53b-43ce-b310-457182a6cf90",
-          "streamUrl": "https://hayatmix.net/;yayin.mp3/;",
-          "bitrateKbps": 192,
-          "country": "Turkmenistan",
-          "countryCode": "TM",
-          "language": "tk"
-        },
-        {
-          "name": "The Holy Quran by Sheikh Mahmoud Al-Husari",
-          "genre": "islamic classical",
-          "id": "rb-ffbb6a33-a356-4143-a13c-95c8c8caddc4",
-          "stationUUID": "ffbb6a33-a356-4143-a13c-95c8c8caddc4",
-          "streamUrl": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
-          "bitrateKbps": 128,
-          "country": "Turkmenistan",
-          "countryCode": "TM",
-          "language": "tk"
-        },
-        {
-          "name": "Uğur Öztürk",
-          "genre": "folk",
-          "id": "rb-6e5eaddc-0afa-4e20-817d-3802475d7c07",
-          "stationUUID": "6e5eaddc-0afa-4e20-817d-3802475d7c07",
-          "streamUrl": "https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1",
-          "bitrateKbps": 96,
-          "country": "Turkmenistan",
-          "countryCode": "TM",
-          "language": "tk"
-        }
-      ]
-    },
-    {
-      "country": "Turkey",
-      "countryCode": "TR",
-      "stations": [
-        {
-          "name": "Slow Turk",
-          "genre": "radio",
-          "id": "tr-slow-turk",
-          "streamUrl": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        },
-        {
-          "name": "Radyo 7",
-          "genre": "radio",
-          "id": "tr-radyo-7",
-          "streamUrl": "http://46.20.3.250/;stream",
-          "bitrateKbps": 128,
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        },
-        {
-          "name": "Power POP",
-          "genre": "radio",
-          "id": "tr-power-pop",
-          "streamUrl": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
-          "bitrateKbps": 128,
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        },
-        {
-          "name": "Damar Turk FM",
-          "genre": "radio",
-          "id": "tr-damar-turk-fm",
-          "streamUrl": "https://live.radyositesihazir.com:10997/",
-          "bitrateKbps": 192,
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        },
-        {
-          "name": "KRAL FM",
-          "genre": "radio",
-          "id": "tr-kral-fm",
-          "streamUrl": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
-          "bitrateKbps": 128,
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        },
-        {
-          "name": "Radyo 45lik",
-          "genre": "radio",
-          "id": "tr-radyo-45lik",
-          "streamUrl": "https://stream.radyo45lik.com:4545/",
-          "bitrateKbps": 128,
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        },
-        {
-          "name": "Super FM",
-          "genre": "radio",
-          "id": "tr-super-fm",
-          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
-          "bitrateKbps": 64,
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        },
-        {
-          "name": "Virgin Radio Türkiye",
-          "genre": "radio",
-          "id": "tr-virgin-radio",
-          "streamUrl": "http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC",
-          "bitrateKbps": 64,
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        },
-        {
-          "name": "90lar Turkey",
-          "genre": "radio",
-          "id": "tr-90lar-turkey",
-          "streamUrl": "http://37.247.98.8/stream/166/",
-          "bitrateKbps": 128,
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        },
-        {
-          "name": "Süper FM (AAC)",
-          "genre": "radio",
-          "id": "tr-super-fm-aac",
-          "streamUrl": "http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
-          "bitrateKbps": 64,
-          "country": "Turkey",
-          "countryCode": "TR",
-          "language": "tr"
-        }
-      ]
-    },
-    {
       "country": "Ukraine",
       "countryCode": "UA",
       "stations": [
@@ -11693,25 +11703,58 @@
       "countryCode": "US",
       "stations": [
         {
-          "bitrateKbps": 320,
+          "bitrateKbps": 128,
           "country": "United States",
           "countryCode": "US",
-          "genre": "california",
-          "id": "us-radio-paradise-main-mix-eu-320k-aac",
+          "genre": "easy listening",
+          "id": "us-101-smooth-jazz",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio Paradise Main Mix (EU) 320k AAC",
-          "streamUrl": "http://stream-uk1.radioparadise.com/aac-320",
+          "name": "101 SMOOTH JAZZ",
+          "streamUrl": "http://jking.cdnstream1.com/b22139_128mp3",
           "language": "en"
         },
         {
-          "bitrateKbps": 320,
+          "bitrateKbps": 128,
           "country": "United States",
           "countryCode": "US",
-          "genre": "1930",
-          "id": "us-classic-vinyl-hd",
+          "genre": "hiphop",
+          "id": "us-181-fm-old-school-hiphop-rnb",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Classic Vinyl HD",
-          "streamUrl": "https://icecast.walmradio.com:8443/classic",
+          "name": "181.FM - Old School HipHop/RnB",
+          "streamUrl": "http://listen.181fm.com/181-oldschool_128k.mp3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "80s",
+          "id": "us-977-80s",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": ".977 80s",
+          "streamUrl": "http://17573.live.streamtheworld.com/977_80_SC",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "country",
+          "id": "us-977-country",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": ".977 Country",
+          "streamUrl": "http://26343.live.streamtheworld.com/977_COUNTRY_SC",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "hits",
+          "id": "us-977-hitz",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": ".977 Hitz",
+          "streamUrl": "http://18863.live.streamtheworld.com/977_HITS_SC",
           "language": "en"
         },
         {
@@ -11726,6 +11769,28 @@
           "language": "en"
         },
         {
+          "bitrateKbps": 192,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "avant-garde",
+          "id": "us-adroit-jazz-underground-hd-opus",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Adroit Jazz Underground HD Opus",
+          "streamUrl": "https://icecast.walmradio.com:8443/jazz_opus",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 256,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "ambient",
+          "id": "us-ambient-sleeping-pill",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Ambient Sleeping Pill",
+          "streamUrl": "http://radio.stereoscenic.com/asp-h",
+          "language": "en"
+        },
+        {
           "bitrateKbps": 320,
           "country": "United States",
           "countryCode": "US",
@@ -11734,6 +11799,105 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Christmas Vinyl HD",
           "streamUrl": "https://icecast.walmradio.com:8443/christmas",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "christian",
+          "id": "us-christmas-vinyl-hd-opus",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Christmas Vinyl HD Opus",
+          "streamUrl": "https://icecast.walmradio.com:8443/christmas_opus",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 0,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "1970s",
+          "id": "us-classic-hits-radio-70-80-discofunk-modernsoul-boogie",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
+          "streamUrl": "https://radiopanther.radiolebowski.com/play",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 320,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "1930",
+          "id": "us-classic-vinyl-hd",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Classic Vinyl HD",
+          "streamUrl": "https://icecast.walmradio.com:8443/classic",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "deep house",
+          "id": "us-deep-house-lounge",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Deep House Lounge",
+          "streamUrl": "http://198.15.94.34:8006/stream",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 96,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "electronic",
+          "id": "us-frisky",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Frisky",
+          "streamUrl": "http://stream2.friskyradio.com/frisky_mp3_hi",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "news talk",
+          "id": "us-npr-news",
+          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
+          "name": "NPR News",
+          "streamUrl": "https://npr-ice.streamguys1.com/live.mp3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 320,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "california",
+          "id": "us-radio-paradise-main-mix-eu-320k-aac",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Radio Paradise Main Mix (EU) 320k AAC",
+          "streamUrl": "http://stream-uk1.radioparadise.com/aac-320",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 320,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "choral",
+          "id": "us-walm-2-hd",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "WALM 2 HD",
+          "streamUrl": "https://icecast.walmradio.com:8443/walm2",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "choral",
+          "id": "us-walm-2-hd-opus",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "WALM 2 HD Opus",
+          "streamUrl": "https://icecast.walmradio.com:8443/walm2_opus",
           "language": "en"
         },
         {
@@ -11759,160 +11923,6 @@
           "language": "en"
         },
         {
-          "bitrateKbps": 320,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "choral",
-          "id": "us-walm-2-hd",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "WALM 2 HD",
-          "streamUrl": "https://icecast.walmradio.com:8443/walm2",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "easy listening",
-          "id": "us-101-smooth-jazz",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "101 SMOOTH JAZZ",
-          "streamUrl": "http://jking.cdnstream1.com/b22139_128mp3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "deep house",
-          "id": "us-deep-house-lounge",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Deep House Lounge",
-          "streamUrl": "http://198.15.94.34:8006/stream",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "avant-garde",
-          "id": "us-adroit-jazz-underground-hd-opus",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Adroit Jazz Underground HD Opus",
-          "streamUrl": "https://icecast.walmradio.com:8443/jazz_opus",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "choral",
-          "id": "us-walm-2-hd-opus",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "WALM 2 HD Opus",
-          "streamUrl": "https://icecast.walmradio.com:8443/walm2_opus",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 0,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "1970s",
-          "id": "us-classic-hits-radio-70-80-discofunk-modernsoul-boogie",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
-          "streamUrl": "https://radiopanther.radiolebowski.com/play",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 192,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "christian",
-          "id": "us-christmas-vinyl-hd-opus",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Christmas Vinyl HD Opus",
-          "streamUrl": "https://icecast.walmradio.com:8443/christmas_opus",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "80s",
-          "id": "us-977-80s",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": ".977 80s",
-          "streamUrl": "http://17573.live.streamtheworld.com/977_80_SC",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "classical",
-          "id": "us-your-classical-relax",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Your Classical - Relax",
-          "streamUrl": "http://relax.stream.publicradio.org/relax.mp3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "country",
-          "id": "us-977-country",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": ".977 Country",
-          "streamUrl": "http://26343.live.streamtheworld.com/977_COUNTRY_SC",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "hiphop",
-          "id": "us-181-fm-old-school-hiphop-rnb",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "181.FM - Old School HipHop/RnB",
-          "streamUrl": "http://listen.181fm.com/181-oldschool_128k.mp3",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 128,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "hits",
-          "id": "us-977-hitz",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": ".977 Hitz",
-          "streamUrl": "http://18863.live.streamtheworld.com/977_HITS_SC",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 256,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "ambient",
-          "id": "us-ambient-sleeping-pill",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Ambient Sleeping Pill",
-          "streamUrl": "http://radio.stereoscenic.com/asp-h",
-          "language": "en"
-        },
-        {
-          "bitrateKbps": 96,
-          "country": "United States",
-          "countryCode": "US",
-          "genre": "electronic",
-          "id": "us-frisky",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Frisky",
-          "streamUrl": "http://stream2.friskyradio.com/frisky_mp3_hi",
-          "language": "en"
-        },
-        {
           "bitrateKbps": 32,
           "country": "United States",
           "countryCode": "US",
@@ -11927,11 +11937,11 @@
           "bitrateKbps": 128,
           "country": "United States",
           "countryCode": "US",
-          "genre": "news talk",
-          "id": "us-npr-news",
-          "lastValidatedAt": "2026-04-20T12:00:00.000Z",
-          "name": "NPR News",
-          "streamUrl": "https://npr-ice.streamguys1.com/live.mp3",
+          "genre": "classical",
+          "id": "us-your-classical-relax",
+          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "name": "Your Classical - Relax",
+          "streamUrl": "http://relax.stream.publicradio.org/relax.mp3",
           "language": "en"
         }
       ]
