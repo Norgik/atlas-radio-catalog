@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T19:45:36.936494Z",
+  "updatedAt": "2026-07-15T16:00:58.986338Z",
   "countries": [
     {
       "country": "United Arab Emirates",
@@ -225,6 +225,28 @@
           "name": "Bob Dylan",
           "streamUrl": "https://streaming.exclusive.radio/er/bobdylan/icecast.audio",
           "language": "ar"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Arab Emirates",
+          "countryCode": "AE",
+          "genre": "pop",
+          "id": "ae-virgin-radio-dubai",
+          "lastValidatedAt": "2026-07-15T00:00:00.000Z",
+          "name": "Virgin Radio Dubai 104.4",
+          "streamUrl": "https://stream.radiojar.com/nhq0vcqwuueuv",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Arab Emirates",
+          "countryCode": "AE",
+          "genre": "pop",
+          "id": "ae-radio-volna",
+          "lastValidatedAt": "2026-07-15T00:00:00.000Z",
+          "name": "Radio Volna",
+          "streamUrl": "https://de1.streamingpulse.com/ssl/radiovolna",
+          "language": "ru"
         }
       ]
     },
@@ -2987,7 +3009,7 @@
           "bitrateKbps": 128,
           "country": "Germany",
           "countryCode": "DE",
-          "genre": "ard",
+          "genre": "news talk",
           "id": "de-inforadio",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Inforadio",
