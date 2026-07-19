@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T16:00:58.986338Z",
+  "updatedAt": "2026-07-19T13:04:44.299939Z",
   "countries": [
     {
       "country": "United Arab Emirates",
@@ -621,6 +621,17 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "AM 530 Somos radio",
           "streamUrl": "https://ipanel.instream.audio:7000/stream",
+          "language": "es"
+        },
+        {
+          "bitrateKbps": 96,
+          "country": "Argentina",
+          "countryCode": "AR",
+          "genre": "sport",
+          "id": "ar-d-sports-radio",
+          "lastValidatedAt": "2026-07-19T12:00:00.000Z",
+          "name": "D Sports Radio",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC",
           "language": "es"
         }
       ]
@@ -2816,6 +2827,17 @@
           "name": "Free Rádio 107,0 FM Brno",
           "streamUrl": "http://icecast8.play.cz/freeradio128.mp3",
           "language": "cs"
+        },
+        {
+          "bitrateKbps": 192,
+          "country": "Czechia",
+          "countryCode": "CZ",
+          "genre": "sport",
+          "id": "cz-radiozurnal-sport",
+          "lastValidatedAt": "2026-07-19T12:00:00.000Z",
+          "name": "ČRo Radiožurnál Sport",
+          "streamUrl": "https://rozhlas.stream/radiozurnal_sport_high.aac",
+          "language": "cs"
         }
       ]
     },
@@ -4875,11 +4897,11 @@
           "bitrateKbps": 128,
           "country": "Spain",
           "countryCode": "ES",
-          "genre": "classical",
+          "genre": "sport",
           "id": "es-radio-marca",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
-          "name": "Radio Marca",
-          "streamUrl": "https://sonic.mediatelekom.net/9316/stream",
+          "lastValidatedAt": "2026-07-19T12:00:00.000Z",
+          "name": "Radio MARCA",
+          "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC",
           "language": "es"
         },
         {
@@ -5173,6 +5195,17 @@
           "name": "Skyrock",
           "streamUrl": "http://icecast.skyrock.net/s/natio_mp3_128k",
           "language": "fr"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "France",
+          "countryCode": "FR",
+          "genre": "sport",
+          "id": "fr-rmc",
+          "lastValidatedAt": "2026-07-19T12:00:00.000Z",
+          "name": "RMC",
+          "streamUrl": "http://audio.bfmtv.com/rmcradio_128.mp3",
+          "language": "fr"
         }
       ]
     },
@@ -5382,7 +5415,7 @@
           "bitrateKbps": 64,
           "country": "United Kingdom",
           "countryCode": "GB",
-          "genre": "speech",
+          "genre": "sport",
           "id": "gb-talksport",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "talkSPORT",
@@ -5420,6 +5453,17 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Virgin Radio UK",
           "streamUrl": "http://radio.virginradio.co.uk/stream",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 128,
+          "country": "United Kingdom",
+          "countryCode": "GB",
+          "genre": "sport",
+          "id": "gb-talksport-2",
+          "lastValidatedAt": "2026-07-19T12:00:00.000Z",
+          "name": "talkSPORT 2",
+          "streamUrl": "http://radio.talksport.com/stream2?aisGetOriginalStream=true",
           "language": "en"
         }
       ]
@@ -5713,7 +5757,7 @@
           "bitrateKbps": 128,
           "country": "Greece",
           "countryCode": "GR",
-          "genre": "greek",
+          "genre": "sport",
           "id": "gr-sport-fm-94-6",
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Sport FM 94.6",
@@ -6776,6 +6820,17 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Radio Italia Solo Musica Italiana",
           "streamUrl": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8",
+          "language": "it"
+        },
+        {
+          "bitrateKbps": 36,
+          "country": "Italy",
+          "countryCode": "IT",
+          "genre": "sport",
+          "id": "it-radio-sportiva",
+          "lastValidatedAt": "2026-07-19T12:00:00.000Z",
+          "name": "Radio Sportiva",
+          "streamUrl": "https://sportiva.inmystream.it/stream/sportiva",
           "language": "it"
         }
       ]
@@ -11964,6 +12019,17 @@
           "lastValidatedAt": "2026-02-09T12:37:56.000Z",
           "name": "Your Classical - Relax",
           "streamUrl": "http://relax.stream.publicradio.org/relax.mp3",
+          "language": "en"
+        },
+        {
+          "bitrateKbps": 48,
+          "country": "United States",
+          "countryCode": "US",
+          "genre": "sport",
+          "id": "us-espn-radio",
+          "lastValidatedAt": "2026-07-19T12:00:00.000Z",
+          "name": "ESPN Radio",
+          "streamUrl": "https://live.amperwave.net/direct/espn-network-48",
           "language": "en"
         }
       ]
