@@ -1,0 +1,15 @@
+{
+  "allowHeuristicFallback": true,
+  "stationIds": [
+    "gb-talksport",
+    "us-espn-radio",
+    "fr-rmc",
+    "no-nrk-sport",
+    "gb-talksport-2",
+    "es-radio-marca",
+    "it-radio-sportiva",
+    "cz-radiozurnal-sport",
+    "ar-d-sports-radio",
+    "gr-sport-fm-94-6"
+  ]
+}
