@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T13:04:44.299939Z",
+  "updatedAt": "2026-08-02T16:32:51.201127Z",
   "countries": [
     {
       "country": "United Arab Emirates",
@@ -5241,9 +5241,9 @@
           "countryCode": "GB",
           "genre": "news",
           "id": "gb-bbc-world-service",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "lastValidatedAt": "2026-08-02T20:30:00.000Z",
           "name": "BBC World Service",
-          "streamUrl": "https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=96000.norewind.m3u8",
+          "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
           "language": "en"
         },
         {
@@ -5406,9 +5406,9 @@
           "countryCode": "GB",
           "genre": "talk",
           "id": "gb-talkradio",
-          "lastValidatedAt": "2026-02-09T12:37:56.000Z",
+          "lastValidatedAt": "2026-08-02T20:30:00.000Z",
           "name": "talkRADIO",
-          "streamUrl": "http://radio.talkradio.co.uk/stream",
+          "streamUrl": "https://radio.talkradio.co.uk/stream",
           "language": "en"
         },
         {
